@@ -25,4 +25,7 @@ All solutions are in **Python3**
    * Inserting Items Into an Array
      * Duplicate Zeros
      * Merge Sorted Array
+   * Deleting Items From an Array
+     * Remove Element
+     * Remove Duplicates from Sorted Array
  
