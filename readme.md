@@ -9,7 +9,10 @@ from LeetCode.
 Each section has a dedicated directory to it, and each problem has a dedicated sub-directory which would usually will
 contain:
 1. The "problem_statement" along with any of the given hints
-2. The solution - if applicable it'll be marked fastest or memory_efficient
+2. The solution - if applicable it'll be marked speed or memory, 
+   * memory: most memory efficient implementation by me 
+   * speed: fastest implementation by me 
+   * i.e., There are possibly even faster and/or more efficient solutions out there
 
 All solutions are in **Python3**
 
