@@ -28,4 +28,6 @@ All solutions are in **Python3**
    * Deleting Items From an Array
      * Remove Element
      * Remove Duplicates from Sorted Array
+   * Search in an Array
+     * Check If N and Its Double Exist
  
