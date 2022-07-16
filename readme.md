@@ -11,7 +11,8 @@ contain:
 1. The "problem_statement" along with any of the given hints
 2. The solution - if applicable it'll be marked speed or memory, 
    * memory: most memory efficient implementation by me 
-   * speed: fastest implementation by me 
+   * speed: fastest implementation by me
+   * both: most memory efficient + fastest implementation by me
    * i.e., There are possibly even faster and/or more efficient solutions out there
 
 All solutions are in **Python3**
@@ -30,4 +31,28 @@ All solutions are in **Python3**
      * Remove Duplicates from Sorted Array
    * Search in an Array
      * Check If N and Its Double Exist
+     * Valid Mountain Array
+   * In-Place Operations
+     * Replace Elements with Greatest Element on Right Side
+
+---
+### Statistics of the submitted solutions
+|Explore- module|Topic|Problem|Problem_number|Solution_type|Submission_date|Required_time|Faster_than<sup>1</sup>|Required_Memory|Less_memory_than<sup>2</sup>|Remarks|
+|---|---|---|---|---|---|---|---|---|---|---|
+|Arrays 101|Introduction|Max Consecutive Ones|485/2340|memory|12-Jul-2022|483 ms|57.84%|14.2 MB|79.14%||
+|Arrays 101|Introduction|Max Consecutive Ones|485/2340|speed|12-Jul-2022|361 ms|92.48%|14.4 MB|32.02%||
+|Arrays 101|Introduction|Find Numbers with Even Number of Digits|1295/2340|both|13-Jul-2022|90 ms|45.15%|13.9 MB|46.09%|Solution to be improved|
+|Arrays 101|Introduction|Squares of a Sorted Array|977/2340|memory|13-Jul-2022|558 ms|6.89%|16.2 MB|80.22%||
+|Arrays 101|Introduction|Squares of a Sorted Array|977/2340|speed|13-Jul-2022|256 ms|82.02%|16.3 MB|49.26%||
+|Arrays 101|Inserting Items Into an Array|Duplicate Zeros|1089/2340|memory|14-Jul-2022|170 ms|21.35%|14.7 MB|97.63%||
+|Arrays 101|Inserting Items Into an Array|Duplicate Zeros|1089/2340|speed|15-Jul-2022|73 ms|91.46%|15.2 MB|<20%|Memory ranking beyond displayed chart limits|
+|Arrays 101|Inserting Items Into an Array|Merge Sorted Array|88/2340|both|16-Jul-2022|41 ms|87.72%|13.9 MB|85.55%||
+|Arrays 101|Deleting Items From an Array|Remove Element|27/2340|speed|16-Jul-2022|32 ms|96.28%|13.9 MB|<15%|Memory ranking beyond displayed chart limits|
+|Arrays 101|Deleting Items From an Array|Remove Duplicates from Sorted Array|26/2340|memory|16-Jul-2022|205 ms|17.31%|15.5 MB|60.57%||
+|Arrays 101|Deleting Items From an Array|Remove Duplicates from Sorted Array|26/2340|speed|16-Jul-2022|114 ms|74.93%|15.6 MB|60.57%|Memory improvement by 0.1 MB has no impact on ranking|
+|Arrays 101|Search in an Array|Check If N and Its Double Exist|1346/2340|both|16-Jul-2022|55 ms|94.17%|13.9 MB|55.83%||
+|Arrays 101|Search in an Array|Valid Mountain Array|941/2340|both|16-Jul-2022|204 ms|98.16%|15.4 MB|70.34%||
+
+<sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
+obtained as on the date of submission (rankings reported only on Python3 based submissions).
  
