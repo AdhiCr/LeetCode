@@ -35,6 +35,7 @@ All solutions are in **Python3**
    * In-Place Operations
      * Replace Elements with Greatest Element on Right Side
      * Remove Duplicates from Sorted Array
+     * Move Zeroes
      
 
 ---
@@ -57,6 +58,7 @@ All solutions are in **Python3**
 |Arrays 101|In-Place Operations|Replace Elements with Greatest Element on Right Side|1299/2340|memory|16-Jul-2022|141 ms|84.24%|15.2 MB|62.39%||
 |Arrays 101|In-Place Operations|Replace Elements with Greatest Element on Right Side|1299/2340|speed|16-Jul-2022|123 ms|96.24%|15.4 MB|34.79%||
 |Arrays 101|In-Place Operations|Remove Duplicates from Sorted Array|26/2340|speed|17-Jul-2022|83 ms|98.44%|15.5 MB|96.23%|The solution is same as the one from "Remove Duplicates from Sorted Array"|
+|Arrays 101|In-Place Operations|Move Zeroes|283/2344|speed|17-Jul-2022|163 ms|98.23%|15.5 MB|96.87%||
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
