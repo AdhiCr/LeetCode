@@ -66,6 +66,8 @@ All solutions are in **Python3**
 |Arrays 101|Conclusion|Height Checker|1051/2344|both|19-Jul-2022|51 ms|63.20%|13.8 MB|95.99%|The fastest solutions as per Leetcode are the exact same algorithm with slightly different variable names|
 |Arrays 101|Conclusion|Third Maximum Number|414/2344|memory|19-Jul-2022|57 ms|91.03%|14.8 MB|93.36%||
 |Arrays 101|Conclusion|Third Maximum Number|414/2344|speed|19-Jul-2022|50 ms|98.34%|14.9 MB|64.34%||
+[comment]: <> (|Arrays 101|Conclusion|Find All Numbers Disappeared in an Array|XX/2344|speed|20-Jul-2022|50 ms|98.34%|14.9 MB|64.34%||)
+|Arrays 101|Conclusion|Find All Numbers Disappeared in an Array|448/2344|speed|20-Jul-2022|327 ms|99.65%|24.7 MB|27.72%||
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
