@@ -36,7 +36,14 @@ All solutions are in **Python3**
      * Replace Elements with Greatest Element on Right Side
      * Remove Duplicates from Sorted Array
      * Move Zeroes
+     * Sort Array By Parity
      * Remove Element
+   * Conclusion
+     * Height Checker
+     * Max Consecutive Ones II - Locked for premium users - not done
+     * Third Maximum Number
+     * Find All Numbers Disappeared in an Array
+     * Squares of a Sorted Array
      
 
 ---
