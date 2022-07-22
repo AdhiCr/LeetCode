@@ -18,6 +18,7 @@ contain:
 All solutions are in **Python3**
 
 ### Order of problems:
+Completed:-
  * Arrays 101
    * Introduction
      * Max Consecutive Ones
@@ -40,10 +41,32 @@ All solutions are in **Python3**
      * Remove Element
    * Conclusion
      * Height Checker
-     * Max Consecutive Ones II - Locked for premium users - not done
+     * Max Consecutive Ones II - (Locked for premium users - not done)
      * Third Maximum Number
      * Find All Numbers Disappeared in an Array
      * Squares of a Sorted Array
+ * Linked List
+   * Singly Linked List
+   * Two Pointer Technique
+   * Classic Problems
+   * Doubly Linked List
+   * Conclusion
+     
+Pending:-
+ * Linked List
+ * Array and String
+ * Hash Table
+ * Recursion I
+ * Queue & Stack
+ * Heap
+ * Binary Search
+ * Binary Tree
+ * Binary Search Tree
+ * Trie
+ * N-ary Tree
+ * Recursion II
+ * Dynamic Programming
+ * Graph
      
 
 ---
