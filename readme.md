@@ -99,6 +99,9 @@ Pending:-
 |Arrays 101|Conclusion|Find All Numbers Disappeared in an Array|448/2344|speed|20-Jul-2022|327 ms|99.65%|24.7 MB|27.72%|Memory Optimised solution to be added|
 |Arrays 101|Conclusion|Squares of a Sorted Array|977/2345|memory|21-Jul-2022|328 ms|57.49%|15.7 MB|92.91%||
 |Arrays 101|Conclusion|Squares of a Sorted Array|977/2345|speed|21-Jul-2022|214 ms|97.92%|16.3 MB|17.40%||
+|Linked List|Singly Linked List|Design Linked List|707/2350|both|23-Jul-2022|74 ms|99.97%|14.6 MB|98.41%|This solution uses lists to hold values. Another solution with the implementation using nodes exists in the directory|
+
+
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
  
