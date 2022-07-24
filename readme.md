@@ -50,6 +50,7 @@ Completed:-
      * Design Linked List
    * Two Pointer Technique
      * Linked List Cycle
+     * Linked List Cycle II
    * Classic Problems
    * Doubly Linked List
    * Conclusion
@@ -103,7 +104,8 @@ Pending:-
 |Linked List|Singly Linked List|Design Linked List|707/2350|both|23-Jul-2022|74 ms|99.97%|14.6 MB|98.41%|This solution uses lists to hold values. Another solution with the implementation using nodes exists in the directory|
 |Linked List|Two Pointer Technique|Linked List Cycle|141/2354|speed|24-Jul-2022|50 ms|98.62%|17.5 MB|66.22%|Multiple submissions of the same code had varying metrics, the metrcs given here is the best of those|
 |Linked List|Two Pointer Technique|Linked List Cycle|141/2354|memory|24-Jul-2022|56 ms|94.26%|17.4 MB|96.40%|This solution is inspired from the most memory efficient solutions available in LeetCode. Note, this solution modifies the values stored in the nodes, and there by is applicable only if losing the values in the list doesn't matter|
-
+|Linked List|Two Pointer Technique|Linked List Cycle II|142/2354|memory|24-Jul-2022|75 ms|57.82%|17.3 MB|94.27%||
+|Linked List|Two Pointer Technique|Linked List Cycle II|142/2354|speed|24-Jul-2022|51 ms|95.04%|18 MB|<10%|Extremely memory inefficient method since it essentially creates an another copy of the whole linked list|
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
