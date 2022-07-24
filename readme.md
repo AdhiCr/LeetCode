@@ -47,13 +47,14 @@ Completed:-
      * Squares of a Sorted Array
  * Linked List
    * Singly Linked List
+     * Design Linked List
    * Two Pointer Technique
+     * Linked List Cycle
    * Classic Problems
    * Doubly Linked List
    * Conclusion
      
 Pending:-
- * Linked List
  * Array and String
  * Hash Table
  * Recursion I
@@ -100,6 +101,8 @@ Pending:-
 |Arrays 101|Conclusion|Squares of a Sorted Array|977/2345|memory|21-Jul-2022|328 ms|57.49%|15.7 MB|92.91%||
 |Arrays 101|Conclusion|Squares of a Sorted Array|977/2345|speed|21-Jul-2022|214 ms|97.92%|16.3 MB|17.40%||
 |Linked List|Singly Linked List|Design Linked List|707/2350|both|23-Jul-2022|74 ms|99.97%|14.6 MB|98.41%|This solution uses lists to hold values. Another solution with the implementation using nodes exists in the directory|
+|Linked List|Two Pointer Technique|Linked List Cycle|141/2354|speed|24-Jul-2022|50 ms|98.62%|17.5 MB|66.22%|Multiple submissions of the same code had varying metrics, the metrcs given here is the best of those|
+|Linked List|Two Pointer Technique|Linked List Cycle|141/2354|memory|24-Jul-2022|56 ms|94.26%|17.4 MB|96.40%|This solution is inspired from the most memory efficient solutions available in LeetCode. Note, this solution modifies the values stored in the nodes, and there by is applicable only if losing the values in the list doesn't matter|
 
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
