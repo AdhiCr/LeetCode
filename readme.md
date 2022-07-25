@@ -51,6 +51,7 @@ Completed:-
    * Two Pointer Technique
      * Linked List Cycle
      * Linked List Cycle II
+     * Intersection of Two Linked Lists
    * Classic Problems
    * Doubly Linked List
    * Conclusion
@@ -106,6 +107,7 @@ Pending:-
 |Linked List|Two Pointer Technique|Linked List Cycle|141/2354|memory|24-Jul-2022|56 ms|94.26%|17.4 MB|96.40%|This solution is inspired from the most memory efficient solutions available in LeetCode. Note, this solution modifies the values stored in the nodes, and there by is applicable only if losing the values in the list doesn't matter|
 |Linked List|Two Pointer Technique|Linked List Cycle II|142/2354|memory|24-Jul-2022|75 ms|57.82%|17.3 MB|94.27%||
 |Linked List|Two Pointer Technique|Linked List Cycle II|142/2354|speed|24-Jul-2022|51 ms|95.04%|18 MB|<10%|Extremely memory inefficient method since it essentially creates an another copy of the whole linked list|
+|Linked List|Two Pointer Technique|Intersection of Two Linked Lists|142/2354|both|25-Jul-2022|166 ms|91.34%|29.5 MB|93.92||
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
