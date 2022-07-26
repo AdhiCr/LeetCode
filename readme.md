@@ -54,6 +54,7 @@ Completed:-
      * Intersection of Two Linked Lists
      * Remove Nth Node From End of List
    * Classic Problems
+     * Reverse Linked List
    * Doubly Linked List
    * Conclusion
      
@@ -108,8 +109,9 @@ Pending:-
 |Linked List|Two Pointer Technique|Linked List Cycle|141/2354|memory|24-Jul-2022|56 ms|94.26%|17.4 MB|96.40%|This solution is inspired from the most memory efficient solutions available in LeetCode. Note, this solution modifies the values stored in the nodes, and there by is applicable only if losing the values in the list doesn't matter|
 |Linked List|Two Pointer Technique|Linked List Cycle II|142/2354|memory|24-Jul-2022|75 ms|57.82%|17.3 MB|94.27%||
 |Linked List|Two Pointer Technique|Linked List Cycle II|142/2354|speed|24-Jul-2022|51 ms|95.04%|18 MB|<10%|Extremely memory inefficient method since it essentially creates an another copy of the whole linked list|
-|Linked List|Two Pointer Technique|Intersection of Two Linked Lists|160/2354|both|25-Jul-2022|166 ms|91.34%|29.5 MB|93.92||
-|Linked List|Two Pointer Technique|Remove Nth Node From End of List|19/2354|both|25-Jul-2022|39 ms|81.88%|13.9 MB|69.55||
+|Linked List|Two Pointer Technique|Intersection of Two Linked Lists|160/2354|both|25-Jul-2022|166 ms|91.34%|29.5 MB|93.92%||
+|Linked List|Two Pointer Technique|Remove Nth Node From End of List|19/2354|both|25-Jul-2022|39 ms|81.88%|13.9 MB|69.55%||
+|Linked List|Classic Problems|Reverse Linked List|206/2354|both|26-Jul-2022|55 ms|52.68%|15.4 MB|93.96%|The best solution both memory and speed as per LeetCode submissions are the exact algorithm, unsure why it is ranked so low in speed|
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
