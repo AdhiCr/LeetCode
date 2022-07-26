@@ -111,7 +111,7 @@ Pending:-
 |Linked List|Two Pointer Technique|Linked List Cycle II|142/2354|speed|24-Jul-2022|51 ms|95.04%|18 MB|<10%|Extremely memory inefficient method since it essentially creates an another copy of the whole linked list|
 |Linked List|Two Pointer Technique|Intersection of Two Linked Lists|160/2354|both|25-Jul-2022|166 ms|91.34%|29.5 MB|93.92%||
 |Linked List|Two Pointer Technique|Remove Nth Node From End of List|19/2354|both|25-Jul-2022|39 ms|81.88%|13.9 MB|69.55%||
-|Linked List|Classic Problems|Reverse Linked List|206/2354|both|26-Jul-2022|55 ms|52.68%|15.4 MB|93.96%|The best solution both memory and speed as per LeetCode submissions are the exact algorithm, unsure why it is ranked so low in speed|
+|Linked List|Classic Problems|Reverse Linked List|206/2354|both|26-Jul-2022|55 ms|52.68%|15.4 MB|93.96%|The best solution both memory and speed as per LeetCode submissions are the exact algorithm, unsure why it is ranked so low in speed. NOTE: Recursive approach to be added.|
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
