@@ -114,7 +114,7 @@ Pending:-
 |Linked List|Two Pointer Technique|Remove Nth Node From End of List|19/2354|both|25-Jul-2022|39 ms|81.88%|13.9 MB|69.55%||
 |Linked List|Classic Problems|Reverse Linked List|206/2354|both|26-Jul-2022|55 ms|52.68%|15.4 MB|93.96%|The best solution both memory and speed as per LeetCode submissions are the exact algorithm, unsure why it is ranked so low in speed. NOTE: Recursive approach to be added.|
 |Linked List|Classic Problems|Remove Linked List Elements|203/2354|both|26-Jul-2022|71 ms|93.29%|17.1 MB|99.58%||
-|Linked List|Classic Problems|Odd Even Linked List|328/2354|memory|27-Jul-2022|34 ms|99.65%|16.5 MB|77.11%||
+|Linked List|Classic Problems|Odd Even Linked List|328/2354|both|27-Jul-2022|34 ms|99.65%|16.5 MB|77.11%||
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
