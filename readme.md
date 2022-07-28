@@ -117,7 +117,6 @@ Pending:-
 |Linked List|Classic Problems|Remove Linked List Elements|203/2354|both|26-Jul-2022|71 ms|93.29%|17.1 MB|99.58%||
 |Linked List|Classic Problems|Odd Even Linked List|328/2354|both|27-Jul-2022|34 ms|99.65%|16.5 MB|77.11%||
 |Linked List|Classic Problems|Palindrome Linked List|234/2350|both|28-06-Jul-2022|883 ms|83.79%|31.2 MB|95.49%|Submitting the same code a few times resulted in slightly varying results, the best speed and memory are reported together here|
-|Linked List|Classic Problems|Palindrome Linked List|234/2350|speed|28-06-Jul-2022|34 ms|99.65%|16.5 MB|77.11%||
 
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
