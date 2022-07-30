@@ -118,7 +118,9 @@ Pending:-
 |Linked List|Classic Problems|Odd Even Linked List|328/2354|both|27-Jul-2022|34 ms|99.65%|16.5 MB|77.11%||
 |Linked List|Classic Problems|Palindrome Linked List|234/2350|both|28-06-Jul-2022|883 ms|83.79%|31.2 MB|95.49%|Submitting the same code a few times resulted in slightly varying results, the best speed and memory are reported together here|
 |Linked List|Classic Problems|Palindrome Linked List|234/2350|both|28-06-Jul-2022|883 ms|83.79%|31.2 MB|95.49%|Submitting the same code a few times resulted in slightly varying results, the best speed and memory are reported together here|
-|Linked List|Doubly Linked List|Design Linked List|707/2350|both|23-Jul-2022|122 ms|97.54%|14.6 MB|84.20%|This solution is the same as Singly Linked List -> Design Linked List|
+|Linked List|Doubly Linked List|Design Linked List|707/2350|both|30-Jul-2022|122 ms|97.54%|14.6 MB|84.20%|This solution is the same as Singly Linked List -> Design Linked List|
+|Linked List|Conclusion|Merge Two Sorted Lists|--/--|--|01-Aug-2022|-- ms|--%|-- MB|-%||
+
 
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
