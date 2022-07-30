@@ -58,7 +58,9 @@ Completed:-
      * Remove Linked List Elements
      * Palindrome Linked List
    * Doubly Linked List
+     * Design Linked List
    * Conclusion
+     * Merge Two Sorted Lists
      
 Pending:-
  * Array and String
