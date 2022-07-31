@@ -121,7 +121,7 @@ Pending:-
 |Linked List|Classic Problems|Palindrome Linked List|234/2350|both|28-06-Jul-2022|883 ms|83.79%|31.2 MB|95.49%|Submitting the same code a few times resulted in slightly varying results, the best speed and memory are reported together here|
 |Linked List|Classic Problems|Palindrome Linked List|234/2350|both|28-06-Jul-2022|883 ms|83.79%|31.2 MB|95.49%|Submitting the same code a few times resulted in slightly varying results, the best speed and memory are reported together here|
 |Linked List|Doubly Linked List|Design Linked List|707/2350|both|30-Jul-2022|122 ms|97.54%|14.6 MB|84.20%|This solution is the same as Singly Linked List -> Design Linked List|
-|Linked List|Conclusion|Merge Two Sorted Lists|--/--|--|01-Aug-2022|-- ms|--%|-- MB|-%||
+|Linked List|Conclusion|Merge Two Sorted Lists|21/2360|speed|31-Jul-2022|41 ms|89.02%|13.9 MB|<67.34%|To be improved slightly on speed and must try new technique for memory|
 
 
 
