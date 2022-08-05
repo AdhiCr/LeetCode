@@ -61,6 +61,10 @@ Completed:-
      * Design Linked List
    * Conclusion
      * Merge Two Sorted Lists
+     * Add Two Numbers
+     * Flatten a Multilevel Doubly Linked List
+     * Insert into a Cyclic Sorted List - (Locked for premium users - not done)
+     * Copy List with Random Pointer
      
 Pending:-
  * Array and String
