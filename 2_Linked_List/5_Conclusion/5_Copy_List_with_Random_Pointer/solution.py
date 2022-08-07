@@ -17,7 +17,7 @@ class Solution:
             og_curr = og_curr.next
 
         og_curr = head
-        while (og_curr.next):
+        while (og_curr):
             hash_map[og_curr].next = hash_map[og_curr.next]
             hash_map[og_curr].random = hash_map[og_curr.random]
             og_curr = og_curr.next
