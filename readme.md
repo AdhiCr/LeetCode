@@ -65,6 +65,7 @@ Completed:-
      * Flatten a Multilevel Doubly Linked List
      * Insert into a Cyclic Sorted List - (Locked for premium users - not done)
      * Copy List with Random Pointer
+     * Rotate List
      
 Pending:-
  * Array and String
