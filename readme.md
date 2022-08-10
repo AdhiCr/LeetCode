@@ -128,7 +128,8 @@ Pending:-
 |Linked List|Conclusion|Merge Two Sorted Lists|21/2360|speed|31-Jul-2022|41 ms|89.02%|13.9 MB|<67.34%|To be improved slightly on speed and must try new technique for memory|
 |Linked List|Conclusion|Add Two Numbers|2/2361|both|02-Aug-2022|66 ms|96.54%|13.8 MB|86.75%|Submitting the same code a few times resulted in slightly varying results, the best speed and memory are reported together here|
 |Linked List|Conclusion|Flatten a Multilevel Doubly Linked List|430/2362|speed|05-Aug-2022|35 ms|95.70%|14.8 MB|50.40%|Submitting the same code a few times resulted in slightly varying results, the best speed and memory are reported together here|
-|Linked List|Conclusion|Copy List with Random Pointer|xx/xx|speed|07-Aug-2022|-- ms|--%|-- MB|--%||
+|Linked List|Conclusion|Copy List with Random Pointer|xx/xx|speed|xx-Aug-2022|-- ms|--%|-- MB|--%||
+|Linked List|Conclusion|Rotate List|xx/xx|speed|xx-Aug-2022|-- ms|--%|-- MB|--%||
 
 
 
