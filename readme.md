@@ -114,7 +114,7 @@ Pending:-
 |Arrays 101|Conclusion|Squares of a Sorted Array|977/2345|memory|21-Jul-2022|328 ms|57.49%|15.7 MB|92.91%||
 |Arrays 101|Conclusion|Squares of a Sorted Array|977/2345|speed|21-Jul-2022|214 ms|97.92%|16.3 MB|17.40%||
 |Linked List|Singly Linked List|Design Linked List|707/2350|both|23-Jul-2022|74 ms|99.97%|14.6 MB|98.41%|This solution uses lists to hold values. Another solution with the implementation using nodes exists in the directory|
-|Linked List|Two Pointer Technique|Linked List Cycle|141/2354|speed|24-Jul-2022|50 ms|98.62%|17.5 MB|66.22%|Multiple submissions of the same code had varying metrics, the metrics given here is the best of those|
+|Linked List|Two Pointer Technique|Linked List Cycle|141/2354|speed|24-Jul-2022|50 ms|98.62%|17.5 MB|66.22%|<sup>3</sup>|
 |Linked List|Two Pointer Technique|Linked List Cycle|141/2354|memory|24-Jul-2022|56 ms|94.26%|17.4 MB|96.40%|This solution is inspired from the most memory efficient solutions available in LeetCode. Note, this solution modifies the values stored in the nodes, and there by is applicable only if losing the values in the list doesn't matter|
 |Linked List|Two Pointer Technique|Linked List Cycle II|142/2354|memory|24-Jul-2022|75 ms|57.82%|17.3 MB|94.27%||
 |Linked List|Two Pointer Technique|Linked List Cycle II|142/2354|speed|24-Jul-2022|51 ms|95.04%|18 MB|<10%|Extremely memory inefficient method since it essentially creates an another copy of the whole linked list|
@@ -123,16 +123,18 @@ Pending:-
 |Linked List|Classic Problems|Reverse Linked List|206/2354|both|26-Jul-2022|55 ms|52.68%|15.4 MB|93.96%|The best solution both memory and speed as per LeetCode submissions are the exact algorithm, unsure why it is ranked so low in speed. NOTE: Recursive approach to be added.|
 |Linked List|Classic Problems|Remove Linked List Elements|203/2354|both|26-Jul-2022|71 ms|93.29%|17.1 MB|99.58%||
 |Linked List|Classic Problems|Odd Even Linked List|328/2354|both|27-Jul-2022|34 ms|99.65%|16.5 MB|77.11%||
-|Linked List|Classic Problems|Palindrome Linked List|234/2350|both|28-06-Jul-2022|883 ms|83.79%|31.2 MB|95.49%|Submitting the same code a few times resulted in slightly varying results, the best speed and memory are reported together here|
+|Linked List|Classic Problems|Palindrome Linked List|234/2350|both|28-06-Jul-2022|883 ms|83.79%|31.2 MB|95.49%|<sup>3</sup>|
 |Linked List|Doubly Linked List|Design Linked List|707/2350|both|30-Jul-2022|122 ms|97.54%|14.6 MB|84.20%|This solution is the same as Singly Linked List -> Design Linked List|
 |Linked List|Conclusion|Merge Two Sorted Lists|21/2360|speed|31-Jul-2022|41 ms|89.02%|13.9 MB|<67.34%|To be improved slightly on speed and must try new technique for memory|
-|Linked List|Conclusion|Add Two Numbers|2/2361|both|02-Aug-2022|66 ms|96.54%|13.8 MB|86.75%|Submitting the same code a few times resulted in slightly varying results, the best speed and memory are reported together here|
-|Linked List|Conclusion|Flatten a Multilevel Doubly Linked List|430/2362|speed|05-Aug-2022|35 ms|95.70%|14.8 MB|50.40%|Submitting the same code a few times resulted in slightly varying results, the best speed and memory are reported together here|
-|Linked List|Conclusion|Copy List with Random Pointer|xx/xx|speed|xx-Aug-2022|-- ms|--%|-- MB|--%||
+|Linked List|Conclusion|Add Two Numbers|2/2361|both|02-Aug-2022|66 ms|96.54%|13.8 MB|86.75%|<sup>3</sup>|
+|Linked List|Conclusion|Flatten a Multilevel Doubly Linked List|430/2362|speed|05-Aug-2022|35 ms|95.70%|14.8 MB|50.40%|<sup>3</sup>|
+|Linked List|Conclusion|Copy List with Random Pointer|138/2371|both|12-Aug-2022|44 ms|80.69%|14.7 MB|99.93%|<sup>3</sup>|
 |Linked List|Conclusion|Rotate List|xx/xx|speed|xx-Aug-2022|-- ms|--%|-- MB|--%||
 
 
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
+
+<sup>3</sup>: Submitting the same code a few times resulted in slightly varying results, the best speed and memory are reported together here
  
