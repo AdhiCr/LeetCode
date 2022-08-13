@@ -132,7 +132,7 @@ Pending:-
 |Linked List|Conclusion|Flatten a Multilevel Doubly Linked List|430/2362|speed|05-Aug-2022|35 ms|95.70%|14.8 MB|50.40%|<sup>3</sup>|
 |Linked List|Conclusion|Copy List with Random Pointer|138/2371|both|12-Aug-2022|44 ms|80.69%|14.7 MB|99.93%|<sup>3</sup>|
 |Linked List|Conclusion|Rotate List|61/2371|both|13-Aug-2022|36 ms|96.03%|13.8 MB|79.96%||
-|Array and String|Introduction to Array|Find Pivot Index|724/2372|both|13-Aug-2022|167 ms|86.65%|15.1 MB|99.34%||<sup>3</sup>|
+|Array and String|Introduction to Array|Find Pivot Index|724/2372|both|13-Aug-2022|167 ms|86.65%|15.1 MB|99.34%|<sup>3</sup>|
 
 
 
