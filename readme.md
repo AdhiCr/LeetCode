@@ -69,6 +69,8 @@ Completed:-
  * Array and String
    * Introduction to Array
      * Find Pivot Index
+     * Largest Number At Least Twice of Others
+
      
 Pending:-
  * Hash Table
@@ -133,7 +135,8 @@ Pending:-
 |Linked List|Conclusion|Copy List with Random Pointer|138/2371|both|12-Aug-2022|44 ms|80.69%|14.7 MB|99.93%|<sup>3</sup>|
 |Linked List|Conclusion|Rotate List|61/2371|both|13-Aug-2022|36 ms|96.03%|13.8 MB|79.96%||
 |Array and String|Introduction to Array|Find Pivot Index|724/2372|both|13-Aug-2022|167 ms|86.65%|15.1 MB|99.34%|<sup>3</sup>|
-
+|Array and String|Introduction to Array|Largest Number At Least Twice of Others|747/2372|memory|13-Aug-2022|71 ms|16.93%|13.8 MB|96.78%||
+|Array and String|Introduction to Array|Largest Number At Least Twice of Others|747/2372|speed|13-Aug-2022|39 ms|88.88%|13.9 MB|<11.63%||
 
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
