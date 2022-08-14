@@ -70,6 +70,7 @@ Completed:-
    * Introduction to Array
      * Find Pivot Index
      * Largest Number At Least Twice of Others
+     * Plus One
 
      
 Pending:-
@@ -137,6 +138,7 @@ Pending:-
 |Array and String|Introduction to Array|Find Pivot Index|724/2372|both|13-Aug-2022|167 ms|86.65%|15.1 MB|99.34%|<sup>3</sup>|
 |Array and String|Introduction to Array|Largest Number At Least Twice of Others|747/2372|memory|13-Aug-2022|71 ms|16.93%|13.8 MB|96.78%||
 |Array and String|Introduction to Array|Largest Number At Least Twice of Others|747/2372|speed|13-Aug-2022|39 ms|88.88%|13.9 MB|<11.63%||
+|Array and String|Introduction to Array|Plus One|66/2376|both|14-Aug-2022|31 ms|96.60%|13.8 MB|96.68%||
 
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
