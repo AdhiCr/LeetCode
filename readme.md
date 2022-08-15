@@ -71,8 +71,9 @@ Completed:-
      * Find Pivot Index
      * Largest Number At Least Twice of Others
      * Plus One
-     * Diagonal Traverse
  * Introduction to 2D Array
+     * Diagonal Traverse
+     * Spiral Matrix
 
      
 Pending:-
@@ -143,6 +144,7 @@ Pending:-
 |Array and String|Introduction to Array|Plus One|66/2376|both|14-Aug-2022|31 ms|96.60%|13.8 MB|96.68%||
 |Array and String|Introduction to 2D Array|Plus One|66/2376|both|14-Aug-2022|31 ms|96.60%|13.8 MB|96.68%||
 |Array and String|Introduction to 2D Array|Diagonal Traverse|498/2376|both|15-Aug-2022|211 ms|86.78%|17 MB|90.46%|<sup>3</sup>|
+|Array and String|Introduction to 2D Array|Spiral Matrix|---/----|--|--Aug-2022|-- ms|--.--%|--.-- MB|--.--%||
 
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
