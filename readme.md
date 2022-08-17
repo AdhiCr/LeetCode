@@ -151,7 +151,7 @@ Pending:-
 |Array and String|Introduction to 2D Array|Spiral Matrix|54/2377|both|16-Aug-2022|37 ms|81.87%|13.9 MB|83.39%|<sup>3</sup>|
 |Array and String|Introduction to 2D Array|Pascal's Triangle|118/2377|both|17-Aug-2022|29 ms|96.48%|13.8 MB|97.65%|<sup>3</sup>|
 |Array and String|Introduction to String|Add Binary|67/2377|both|17-Aug-2022|39 ms|85.22%|13.7 MB|98.07%|<sup>3</sup> This solution is the same as the fastest and most memory optimal solution|
-|Array and String|Introduction to String|Implement strStr()|28/2377|both|17-Aug-2022|33 ms|90.51%|13.8 MB|97.46%|<sup>3</sup> The best solution is available as solution_alternate but this uses an inbuilt function, hence this solution is essentially the second best|
+|Array and String|Introduction to String|Implement strStr()|28/2377|both|17-Aug-2022|33 ms|90.51%|13.8 MB|97.46%|<sup>3</sup> The other best solution is available as solution_alternate but this uses an inbuilt function|
 
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
