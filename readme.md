@@ -74,6 +74,7 @@ Completed:-
  * Introduction to 2D Array
      * Diagonal Traverse
      * Spiral Matrix
+     * Pascal's Triangle
 
      
 Pending:-
@@ -145,6 +146,7 @@ Pending:-
 |Array and String|Introduction to 2D Array|Plus One|66/2376|both|14-Aug-2022|31 ms|96.60%|13.8 MB|96.68%||
 |Array and String|Introduction to 2D Array|Diagonal Traverse|498/2376|both|15-Aug-2022|211 ms|86.78%|17 MB|90.46%|v<sup>3</sup>|
 |Array and String|Introduction to 2D Array|Spiral Matrix|54/2377|both|16-Aug-2022|37 ms|81.87%|13.9 MB|83.39%|<sup>3</sup>|
+|Array and String|Introduction to 2D Array|Pascal's Triangle|118/2377|both|17-Aug-2022|29 ms|96.48%|13.8 MB|97.65%|<sup>3</sup>|
 
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
