@@ -79,6 +79,8 @@ Completed:-
      * Add Binary 
      * Implement strStr()
      * Longest Common Prefix
+   * Two-Pointer Technique
+     * Reverse String
 
      
 Pending:-
@@ -154,6 +156,7 @@ Pending:-
 |Array and String|Introduction to String|Add Binary|67/2377|both|17-Aug-2022|39 ms|85.22%|13.7 MB|98.07%|<sup>3</sup> This solution is the same as the fastest and most memory optimal solution|
 |Array and String|Introduction to String|Implement strStr()|28/2377|both|17-Aug-2022|33 ms|90.51%|13.8 MB|97.46%|<sup>3</sup> The other best solution is available as solution_alternate but this uses an inbuilt function|
 |Array and String|Introduction to String|Longest Common Prefix|14/2378|both|18-Aug-2022|37 ms|91.00%|13.9 MB|88.78%||
+|Array and String|Two-Pointer Technique|Reverse String|14/2378|both|18-Aug-2022|311 ms|51.26%|18.3 MB|86.20%|The best solution is available as solution_alternate but this uses an inbuilt function|
 
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
