@@ -83,6 +83,9 @@ Completed:-
      * Reverse String
      * Array Partition I
      * Two Sum II - Input array is sorted
+     * Remove Element - already completed in "Arrays 101" -> "Deleting Items From an Array"
+     * Max Consecutive Ones - already completed in "Arrays 101" -> "Introduction"
+     * Minimum Size Subarray Sum
 
      
 Pending:-
@@ -160,7 +163,8 @@ Pending:-
 |Array and String|Introduction to String|Longest Common Prefix|14/2378|both|18-Aug-2022|37 ms|91.00%|13.9 MB|88.78%||
 |Array and String|Two-Pointer Technique|Reverse String|14/2378|both|18-Aug-2022|311 ms|51.26%|18.3 MB|86.20%|The best solution is available as solution_alternate but this uses an inbuilt function|
 |Array and String|Two-Pointer Technique|Array Partition I|561/2378|both|19-Aug-2022|294 ms|90.95%|16.6 MB|96.41%||
-|Array and String|Two-Pointer Technique|Two Sum II - Input array is sorted|561/2378|both|20-Aug-2022|154 ms|79.10%|14.9 MB|89.77%||
+|Array and String|Two-Pointer Technique|Two Sum II - Input array is sorted|167/2382|both|20-Aug-2022|154 ms|79.10%|14.9 MB|89.77%||
+|Array and String|Two-Pointer Technique|Minimum Size Subarray Sum|209/2382|memory|20-Aug-2022|154 ms|79.10%|14.9 MB|89.77%||
 
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
