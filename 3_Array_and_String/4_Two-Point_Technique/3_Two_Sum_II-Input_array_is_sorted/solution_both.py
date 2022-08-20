@@ -6,13 +6,16 @@ class Solution:
         # first element of list and all subsequent elements chosen one by one, repeat for the next element where the
         # only the elements greater than the current are considered for the second element
         # (since the paring with smaller number is already checked when looping through the earlier pairs).
-        idx1 = 0
-        while idx1 < len(numbers):
-            first = numbers[idx1]
-            if (target-first) in numbers[idx1+1:]:
-                return [idx1 + 1, idx1 + numbers[idx1+1:].index(target-first) + 2]
+        left_idx = 0
+        right_idx = len(numbers) - 1
+        while(left_idx < right_idx):
+            result = numbers[left_idx] + numbers[right_idx]
+            if result == target:
+                return [left_idx+1, right_idx+1]
+            elif result < target:
+                left_idx += 1
             else:
-                idx1 = next(i for i,v in enumerate(numbers[idx1:]) if v > first) + idx1
+                right_idx -= 1
 
 
 dummy = Solution()
