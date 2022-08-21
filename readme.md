@@ -86,6 +86,8 @@ Completed:-
      * Remove Element - already completed in "Arrays 101" -> "Deleting Items From an Array"
      * Max Consecutive Ones - already completed in "Arrays 101" -> "Introduction"
      * Minimum Size Subarray Sum
+   * Conclusion
+     * Rotate Array
 
      
 Pending:-
