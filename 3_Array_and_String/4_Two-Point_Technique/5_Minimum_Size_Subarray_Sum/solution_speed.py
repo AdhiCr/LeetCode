@@ -2,8 +2,8 @@ from typing import List
 
 class Solution:
     def minSubArrayLen(self, target: int, nums: List[int]) -> int:
-        if sum(nums) < target: return 0
-        elif sum(nums) == target:  return len(nums)
+        if sum(nums) < target:
+            return 0
 
         start = total = 0
         len_idx = len(nums) + 1

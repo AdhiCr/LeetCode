@@ -165,6 +165,8 @@ Pending:-
 |Array and String|Two-Pointer Technique|Array Partition I|561/2378|both|19-Aug-2022|294 ms|90.95%|16.6 MB|96.41%||
 |Array and String|Two-Pointer Technique|Two Sum II - Input array is sorted|167/2382|both|20-Aug-2022|154 ms|79.10%|14.9 MB|89.77%||
 |Array and String|Two-Pointer Technique|Minimum Size Subarray Sum|209/2382|memory|20-Aug-2022|486 ms|23.56%|26.6 MB|96.75%||
+|Array and String|Two-Pointer Technique|Minimum Size Subarray Sum|209/2382|speed|21-Aug-2022|274 ms|89.06%|27.0 MB|86.86%|very minor change compared to memory optimised solution|
+
 
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
