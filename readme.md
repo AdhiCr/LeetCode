@@ -88,6 +88,7 @@ Completed:-
      * Minimum Size Subarray Sum
    * Conclusion
      * Rotate Array
+     * Pascal's Triangle II
 
      
 Pending:-
@@ -169,6 +170,7 @@ Pending:-
 |Array and String|Two-Pointer Technique|Minimum Size Subarray Sum|209/2382|memory|20-Aug-2022|486 ms|23.56%|26.6 MB|96.75%||
 |Array and String|Two-Pointer Technique|Minimum Size Subarray Sum|209/2382|speed|21-Aug-2022|274 ms|89.06%|27.0 MB|86.86%|very minor change compared to memory optimised solution|
 |Array and String|Conclusion|Rotate Array|189/2386|both|22-Aug-2022|202 ms|99.69%|25.4 MB|76.32%||
+|Array and String|Conclusion|Pascal's Triangle II|119/2386|both|22-Aug-2022|26 ms|98.78%|13.7 MB|97.06%|<sup>3</sup>|
 
 
 
