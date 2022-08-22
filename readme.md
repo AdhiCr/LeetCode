@@ -89,6 +89,7 @@ Completed:-
    * Conclusion
      * Rotate Array
      * Pascal's Triangle II
+     * Reverse Words in a String
 
      
 Pending:-
@@ -171,6 +172,7 @@ Pending:-
 |Array and String|Two-Pointer Technique|Minimum Size Subarray Sum|209/2382|speed|21-Aug-2022|274 ms|89.06%|27.0 MB|86.86%|very minor change compared to memory optimised solution|
 |Array and String|Conclusion|Rotate Array|189/2386|both|22-Aug-2022|202 ms|99.69%|25.4 MB|76.32%||
 |Array and String|Conclusion|Pascal's Triangle II|119/2386|both|22-Aug-2022|26 ms|98.78%|13.7 MB|97.06%|<sup>3</sup>|
+|Array and String|Conclusion|Reverse Words in a String|151/2386|both|22-Aug-2022|31 ms|96.45%|13.9 MB|97.72%|<sup>3</sup>|
 
 
 
