@@ -90,6 +90,9 @@ Completed:-
      * Rotate Array
      * Pascal's Triangle II
      * Reverse Words in a String
+     * Reverse Words in a String III
+     * Remove Duplicates from Sorted Array - already completed in "Arrays 101" -> "Deleting Items From an Array"
+     * Move Zeros - already completed in "Arrays 101" -> "In-Place Operations"
 
      
 Pending:-
@@ -173,6 +176,7 @@ Pending:-
 |Array and String|Conclusion|Rotate Array|189/2386|both|22-Aug-2022|202 ms|99.69%|25.4 MB|76.32%||
 |Array and String|Conclusion|Pascal's Triangle II|119/2386|both|22-Aug-2022|26 ms|98.78%|13.7 MB|97.06%|<sup>3</sup>|
 |Array and String|Conclusion|Reverse Words in a String|151/2386|both|22-Aug-2022|31 ms|96.45%|13.9 MB|97.72%|<sup>3</sup>|
+|Array and String|Conclusion|Reverse Words in a String III|---|---|23-Aug-2022|-- ms|--.--%|--.- MB|--.--%||
 
 
 
