@@ -93,6 +93,12 @@ Completed:-
      * Reverse Words in a String III
      * Remove Duplicates from Sorted Array - already completed in "Arrays 101" -> "Deleting Items From an Array"
      * Move Zeros - already completed in "Arrays 101" -> "In-Place Operations"
+ * Hash Table
+   * Design a Hash Table
+   * Practical Application - Hash Set
+   * Practical Application - Hash Map
+   * Practical Application - Design the Key
+   * Conclusion
 
      
 Pending:-
@@ -116,7 +122,7 @@ Pending:-
 |---|---|---|---|---|---|---|---|---|---|---|
 |Arrays 101|Introduction|Max Consecutive Ones|485/2340|memory|12-Jul-2022|483 ms|57.84%|14.2 MB|79.14%||
 |Arrays 101|Introduction|Max Consecutive Ones|485/2340|speed|12-Jul-2022|361 ms|92.48%|14.4 MB|32.02%||
-|Arrays 101|Introduction|Find Numbers with Even Number of Digits|1295/2340|both|13-Jul-2022|90 ms|45.15%|13.9 MB|46.09%|Solution to be improved|
+|Arrays 101|Introduction|Find Numbers with Even Number of Digits|1295/2340|both|13-Jul-2022|62 ms|84.74%|13.8 MB|99.19%|<sup>3</sup>|
 |Arrays 101|Introduction|Squares of a Sorted Array|977/2340|memory|13-Jul-2022|558 ms|6.89%|16.2 MB|80.22%||
 |Arrays 101|Introduction|Squares of a Sorted Array|977/2340|speed|13-Jul-2022|256 ms|82.02%|16.3 MB|49.26%||
 |Arrays 101|Inserting Items Into an Array|Duplicate Zeros|1089/2340|memory|14-Jul-2022|170 ms|21.35%|14.7 MB|97.63%||
@@ -177,11 +183,12 @@ Pending:-
 |Array and String|Conclusion|Pascal's Triangle II|119/2386|both|22-Aug-2022|26 ms|98.78%|13.7 MB|97.06%|<sup>3</sup>|
 |Array and String|Conclusion|Reverse Words in a String|151/2386|both|22-Aug-2022|31 ms|96.45%|13.9 MB|97.72%|<sup>3</sup>|
 |Array and String|Conclusion|Reverse Words in a String III|557/2386|both|23-Aug-2022|33 ms|97.41%|14.5 MB|81.97%||
+|Hash Table|Design a Hash Table|Design HashSet|705/2386|memory|23-Aug-2022|1924 ms|17.28%|18.4 MB|95.83%|<sup>3</sup> the most speed optimal solutions available in LeetCode uses set or dicts, which seem to be against the spirit of designing a hashset from scratch. Have to check for other potential solutions which solve this faster while keeping the spirit of the question.|
 
 
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
 
-<sup>3</sup>: Submitting the same code a few times resulted in slightly varying results, the best speed and memory are reported together here
+<sup>3</sup>: Submitting the same code a few times resulted in slightly varying results, the best speed and memory are reported together here. This also indicates the metrics reported by LeetCode are not consistent, and there by consider them only as a general indication of performance
  
