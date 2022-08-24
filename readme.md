@@ -95,6 +95,8 @@ Completed:-
      * Move Zeros - already completed in "Arrays 101" -> "In-Place Operations"
  * Hash Table
    * Design a Hash Table
+     * Design HashSet
+     * Design HashMap
    * Practical Application - Hash Set
    * Practical Application - Hash Map
    * Practical Application - Design the Key
