@@ -101,6 +101,7 @@ Completed:-
      * Contains Duplicate
      * Single Number
      * Intersection of Two Arrays
+     * Happy Number
    * Practical Application - Hash Map
    * Practical Application - Design the Key
    * Conclusion
@@ -193,8 +194,10 @@ Pending:-
 |Hash Table|Practical Application - Hash Set|Contains Duplicate| both          |   25-Aug-2022   |    447 ms     |         98.93%          |     25.9 MB     | 71.55%                       |<sup>3</sup>|
 |Hash Table|Practical Application - Hash Set|Single Number| memory        |   25-Aug-2022   |    140 ms     |         92.68%          |     16.6 MB     | 93.49%                       |<sup>3</sup>|
 |Hash Table|Practical Application - Hash Set|Single Number| alternate     |   25-Aug-2022   |    135 ms     |         96.18%          |     17.1 MB     | 9.92%                        ||
-|Hash Table|Practical Application - Hash Set|Intersection of Two Arrays| memory        |   26-Aug-2022   |     68 ms      |         61.47%          |     14.0 MB     | 91.27%                       ||
+|Hash Table|Practical Application - Hash Set|Intersection of Two Arrays| memory        |   26-Aug-2022   |     68 ms     |         61.47%          |     14.0 MB     | 91.27%                       ||
 |Hash Table|Practical Application - Hash Set|Intersection of Two Arrays| speed         |   26-Aug-2022   |     38 ms     |         99.66%          |     14.0 MB     | 68.63%                       |<sup>3</sup>|
+|Hash Table|Practical Application - Hash Set|Happy Number| memory        |   26-Aug-2022   |     34 ms     |         95.25%          |     13.9 MB     | 61.84%                       |<sup>3</sup>|
+|Hash Table|Practical Application - Hash Set|Happy Number| speed         |   26-Aug-2022   |     32 ms     |         97.01%          |     14.0 MB     | <85.00%                      |<sup>3</sup>|
 
 
 
