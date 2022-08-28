@@ -103,6 +103,7 @@ Completed:-
      * Intersection of Two Arrays
      * Happy Number
    * Practical Application - Hash Map
+     * Two Sum
    * Practical Application - Design the Key
    * Conclusion
 
@@ -200,7 +201,6 @@ Pending:-
 |Hash Table| Practical Application - Hash Set | Happy Number                                         | speed         |   26-Aug-2022   |     32 ms     |         97.01%         |     14.0 MB     | <85.00%                      |<sup>3</sup>|
 |Hash Table| Practical Application - Hash Map | Two Sum                                              | memory        |   27-Aug-2022   |    1246 ms    |         31.65%         |     14.9 MB     | 95.42%                       ||
 |Hash Table| Practical Application - Hash Map | Two Sum                                              | speed         |   28-Aug-2022   |     67 ms     |         91.80%         |     15.2 MB     | 49.87%                       ||
-
 
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
