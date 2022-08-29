@@ -105,6 +105,7 @@ Completed:-
    * Practical Application - Hash Map
      * Two Sum
      * Isomorphic Strings
+     * Minimum Index Sum of Two Lists
    * Practical Application - Design the Key
    * Conclusion
 
@@ -203,6 +204,7 @@ Pending:-
 |Hash Table| Practical Application - Hash Map | Two Sum                                              | memory        |   27-Aug-2022   |    1246 ms    |         31.65%          |     14.9 MB     | 95.42%                       ||
 |Hash Table| Practical Application - Hash Map | Two Sum                                              | speed         |   28-Aug-2022   |     67 ms     |         91.80%          |     15.2 MB     | 49.87%                       ||
 |Hash Table| Practical Application - Hash Map | Isomorphic Strings                                   | both          |   28-Aug-2022   |     38 ms     |         96.85%          |     14.1 MB     | 88.88%                       ||
+|Hash Table| Practical Application - Hash Map | Minimum Index Sum of Two Lists                       | memory        |   29-Aug-2022   |     214 ms     |         77.65%          |     14.3 MB     | 98.89%                       ||
 
 
 
