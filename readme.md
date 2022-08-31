@@ -107,6 +107,7 @@ Completed:-
      * Isomorphic Strings
      * Minimum Index Sum of Two Lists
      * First Unique Character in a String
+     * Intersection of Two Arrays II
    * Practical Application - Design the Key
    * Conclusion
 
@@ -206,7 +207,8 @@ Pending:-
 | Hash Table       | Practical Application - Hash Map | Two Sum                                              | speed         |   28-Aug-2022   |     67 ms     |         91.80%          |     15.2 MB     | 49.87%                       ||
 | Hash Table       | Practical Application - Hash Map | Isomorphic Strings                                   | both          |   28-Aug-2022   |     38 ms     |         96.85%          |     14.1 MB     | 88.88%                       ||
 | Hash Table       | Practical Application - Hash Map | Minimum Index Sum of Two Lists                       | memory        |   29-Aug-2022   |    214 ms     |         77.65%          |     14.3 MB     | 98.89%                       | Speed optimised solutiowill be worked upon later|                                                                                                                                                                                                                              |
-| Hash Table       | Practical Application - Hash Map | First Unique Character in a String                   | both          | 30-Aug-2022     |     44 ms     |         99.79%          |     14.1 MB     | 95.44%                       ||                                                                                                                                                                                                                              |
+| Hash Table       | Practical Application - Hash Map | First Unique Character in a String                   | both          |   30-Aug-2022   |     44 ms     |         99.79%          |     14.1 MB     | 95.44%                       ||                                                                                                                                                                                                                              |
+| Hash Table       | Practical Application - Hash Map | Intersection of Two Arrays II                   | both          |   31-Aug-2022   |     46 ms     |         97.72%          |     13.9 MB     | 98.87%                       | <sup>3</sup> |                                                                                                                                                                                                                            
 
 
 
