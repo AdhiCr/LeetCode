@@ -113,6 +113,7 @@ Completed:-
    * Practical Application - Design the Key
      * Group Anagrams
      * Group Shifted Strings - (Locked for premium users - not done)
+     * Valid Sudoku
    * Conclusion
 
      
@@ -216,6 +217,7 @@ Pending:-
 | Hash Table       | Practical Application - Hash Map        | Contains Duplicate II                                | both          |   31-Aug-2022   |    638 ms     |         94.15%          |     25.3 MB     | 99.39%                       | <sup>3</sup>                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                            
 | Hash Table       | Practical Application - Design the Key  | Group Anagrams                                       | memory        |   01-Sep-2022   |    119 ms     |         83.42%          |     17.1 MB     | 96.78%                       |                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                            
 | Hash Table       | Practical Application - Design the Key  | Group Anagrams                                       | speed         |   01-Sep-2022   |     95 ms     |         98.57%          |     17.2 MB     | 89.11%                       | <sup>3</sup>                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                            
+| Hash Table       | Practical Application - Design the Key  | Valid Sudoku                                         | both          |   02-Sep-2022   |    110 ms     |         83.05%          |     13.7 MB     | 99.94%                       | <sup>3</sup>                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                            
 
 
 
