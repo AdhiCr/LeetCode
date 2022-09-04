@@ -118,6 +118,7 @@ Completed:-
    * Conclusion
      * Jewels and Stones
      * Longest Substring Without Repeating Characters
+     * Two Sum III - Data structure design  - (Locked for premium users - not done)
 
      
 Pending:-
