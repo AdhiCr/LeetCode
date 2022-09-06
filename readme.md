@@ -126,7 +126,6 @@ Completed:-
 
      
 Pending:-
- * Hash Table
  * Recursion I
  * Queue & Stack
  * Heap
