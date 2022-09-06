@@ -123,11 +123,16 @@ Completed:-
      * Top K Frequent Elements
      * Unique Word Abbreviation - (Locked for premium users - not done)
      * Insert Delete GetRandom O(1)
+ * Queue & Stack
+   * Queue: First-in-first-out Data Structure
+   * Queue and BFS
+   * Stack: Last-in-first-out Data Structure
+   * Stack and DFS
+   * Conclusion
 
      
 Pending:-
  * Recursion I
- * Queue & Stack
  * Heap
  * Binary Search
  * Binary Tree
