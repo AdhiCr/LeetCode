@@ -118,9 +118,10 @@ Completed:-
    * Conclusion
      * Jewels and Stones
      * Longest Substring Without Repeating Characters
-     * Two Sum III - Data structure design  - (Locked for premium users - not done)
+     * Two Sum III - Data structure design - (Locked for premium users - not done)
      * 4Sum II
      * Top K Frequent Elements
+     * Unique Word Abbreviation - (Locked for premium users - not done)
 
      
 Pending:-
