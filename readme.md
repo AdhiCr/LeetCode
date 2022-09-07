@@ -126,6 +126,7 @@ Completed:-
  * Queue & Stack
    * Queue: First-in-first-out Data Structure
      * Design Circular Queue
+     * Moving Average from Data Stream - (Locked for premium users - not done)
    * Queue and BFS
    * Stack: Last-in-first-out Data Structure
    * Stack and DFS
