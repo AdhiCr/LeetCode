@@ -138,6 +138,7 @@ Completed:-
      * Daily Temperatures
      * Evaluate Reverse Polish Notation
    * Stack and DFS
+     * Number of Islands - already completed in "Queue & Stack" -> "Queue and BFS" -> Earlier question was using BFS, here DFS - Not solving this again for now
    * Conclusion
 
      
