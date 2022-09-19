@@ -140,6 +140,7 @@ Completed:-
    * Stack and DFS
      * Number of Islands - already completed in "Queue & Stack" -> "Queue and BFS" -> Earlier question was using BFS, here DFS - Not solving this again for now
      * Clone Graph
+     * Target Sum
    * Conclusion
 
      
@@ -276,6 +277,7 @@ Pending:-
 | Queue & Stack    | Stack: Last-in-first-out Data Structure  | Daily Temperatures               |     both      |   14-Sep-2022   |    1255 ms    |         89.95%          |     24.7 MB     |            72.68%            | Most variants of the solution are timing                                                                                                                                          |                                                                                                                                                                                                                   
 | Queue & Stack    | Stack: Last-in-first-out Data Structure  | Evaluate Reverse Polish Notation |     both      |   16-Sep-2022   |     57 ms     |         99.82%          |     14.2 MB     |            95.94%            | <sup>3</sup>                                                                                                                                                                      |                                                                                                                                                                                                                   
 | Queue & Stack    | Stack and DFS                            | Clone Graph                      |     both      |   18-Sep-2022   |     39 ms     |         94.46%          |     14.3 MB     |            98.08%            | <sup>3</sup>                                                                                                                                                                      |                                                                                                                                                                                                                   
+| Queue & Stack    | Stack and DFS                            | Target Sum                       |      --       |   ---Sep-2022   |     -- ms     |         --.--%          |     --.- MB     |            --.--%            | <sup>3</sup>                                                                                                                                                                      |                                                                                                                                                                                                                   
 
 
 
