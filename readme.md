@@ -141,6 +141,7 @@ Completed:-
      * Number of Islands - already completed in "Queue & Stack" -> "Queue and BFS" -> Earlier question was using BFS, here DFS - Not solving this again for now
      * Clone Graph
      * Target Sum
+     * Binary Tree Inorder Traversal
    * Conclusion
 
      
@@ -278,6 +279,7 @@ Pending:-
 | Queue & Stack    | Stack: Last-in-first-out Data Structure  | Evaluate Reverse Polish Notation |     both      |   16-Sep-2022   |     57 ms     |         99.82%          |     14.2 MB     |            95.94%            | <sup>3</sup>                                                                                                                                                                      |                                                                                                                                                                                                                   
 | Queue & Stack    | Stack and DFS                            | Clone Graph                      |     both      |   18-Sep-2022   |     39 ms     |         94.46%          |     14.3 MB     |            98.08%            | <sup>3</sup>                                                                                                                                                                      |                                                                                                                                                                                                                   
 | Queue & Stack    | Stack and DFS                            | Target Sum                       |     both      |   21-Sep-2022   |    115 ms     |         97.62%          |     13.9 MB     |            98.00%            | <sup>3</sup>                                                                                                                                                                      |                                                                                                                                                                                                                   
+| Queue & Stack    | Stack and DFS                            | Binary Tree Inorder Traversal    |   recursive   |   22-Sep-2022   |     63 ms     |         17.30%          |     13.8 MB     |            96.46%            |                                                                                                                                                                                   |                                                                                                                                                                                                                   
 
 
 
