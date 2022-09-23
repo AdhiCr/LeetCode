@@ -22,5 +22,3 @@ class Solution:
 
         recursive_traversal(root)
         return result
-
-
