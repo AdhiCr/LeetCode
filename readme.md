@@ -144,6 +144,7 @@ Completed:-
      * Binary Tree Inorder Traversal
    * Conclusion
      * Implement Queue using Stacks
+     * Implement Stack using Queues
 
      
 Pending:-
@@ -283,6 +284,7 @@ Pending:-
 | Queue & Stack    | Stack and DFS                            | Binary Tree Inorder Traversal    |   recursive   |   22-Sep-2022   |     63 ms     |         17.30%          |     13.8 MB     |            96.46%            |                                                                                                                                                                                   |                                                                                                                                                                                                                   
 | Queue & Stack    | Stack and DFS                            | Binary Tree Inorder Traversal    |   iterative   |   23-Sep-2022   |     30 ms     |         95.60%          |     13.8 MB     |            59.51%            | <sup>3</sup>                                                                                                                                                                      |                                                                                                                                                                                                                   
 | Queue & Stack    | Conclusion                               | Implement Queue using Stacks     |     both      |   24-Sep-2022   |     41 ms     |         72.65%          |     13.9 MB     |            98.60%            | <sup>3</sup>                                                                                                                                                                      |                                                                                                                                                                                                                   
+| Queue & Stack    | Conclusion                               | Implement Stack using Queues     |     both      |   25-Sep-2022   |     36 ms     |         83.80%          |     13.9 MB     |            75.55%            | <sup>3</sup>                                                                                                                                                                      |                                                                                                                                                                                                                   
 
 
 
