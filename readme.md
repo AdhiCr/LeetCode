@@ -147,6 +147,7 @@ Completed:-
      * Implement Stack using Queues
      * Decode String
      * Flood Fill
+     * 01 Matrix
 
      
 Pending:-
@@ -289,6 +290,7 @@ Pending:-
 | Queue & Stack    | Conclusion                               | Implement Stack using Queues     |     both      |   25-Sep-2022   |     36 ms     |         83.80%          |     13.9 MB     |            75.55%            | <sup>3</sup>                                                                                                                                                                      |                                                                                                                                                                                                                   
 | Queue & Stack    | Conclusion                               | Decode String                    |     both      |   27-Sep-2022   |     28 ms     |         96.53%          |     13.8 MB     |            71.94%            | <sup>3</sup>                                                                                                                                                                      |                                                                                                                                                                                                                   
 | Queue & Stack    | Conclusion                               | Flood Fill                       |      --       |   28-Sep-2022   |    188 ms     |          8.15%          |     14.1 MB     |            38.36%            |                                                                                                                                                                                   |                                                                                                                                                                                                                   
+| Queue & Stack    | Conclusion                               | 01 Matrix                        |      --       |   ---Sep-2022   |     -- ms     |         --.--%          |     --.- MB     |            --.--%            |                                                                                                                                                                                   |                                                                                                                                                                                                                   
 
 
 
