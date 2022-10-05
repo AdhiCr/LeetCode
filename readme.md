@@ -148,6 +148,7 @@ Completed:-
      * Decode String
      * Flood Fill
      * 01 Matrix
+     * Keys and Rooms
 
      
 Pending:-
@@ -292,6 +293,7 @@ Pending:-
 | Queue & Stack    | Conclusion                               | Flood Fill                       |     speed     |   01-Oct-2022   |     77 ms     |         95.94%          |     14.2 MB     |            38.47%            | <sup>3</sup>                                                                                                                                                                      |                                                                                                                                                                                                                   
 | Queue & Stack    | Conclusion                               | Flood Fill                       |    memory     |   03-Oct-2022   |    116 ms     |         63.54%          |     13.9 MB     |            99.16%            |                                                                                                                                                                                   |                                                                                                                                                                                                                   
 | Queue & Stack    | Conclusion                               | 01 Matrix                        |     both      |   05-Oct-2022   |    538 ms     |         99.48%          |     16.5 MB     |            99.24%            | <sup>3</sup>                                                                                                                                                                      |                                                                                                                                                                                                                   
+| Queue & Stack    | Conclusion                               | Keys and Rooms                   |      --       |   ---Oct-2022   |     -- ms     |         --.--%          |     --.- MB     |            --.--%            | <sup>3</sup>                                                                                                                                                                      |                                                                                                                                                                                                                   
 
 
 
