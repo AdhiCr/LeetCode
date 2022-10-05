@@ -6,9 +6,9 @@ class Solution:
         init_val = rows + cols - 2
         
         # scan from left-top
-        for i, row in enumerate(mat):
-            for j, ele in enumerate(row):
-                if ele:
+        for i in range(rows):
+            for j in range(cols):
+                if mat[i][j]:
                     top = mat[i - 1][j] + 1 if i > 0 else init_val
                     left = mat[i][j - 1] + 1 if j > 0 else init_val
                     mat[i][j] = min(top, left)
@@ -16,11 +16,10 @@ class Solution:
         # scan from right-bottom
         for i in range(rows - 1, -1, -1):
             for j in range(cols - 1, -1, -1):
-                ele = mat[i][j]
-                if ele:
+                if mat[i][j]:
                     bottom = mat[i + 1][j] + 1 if i < rows - 1 else init_val
                     right = mat[i][j + 1] + 1 if j < cols - 1 else init_val
-                    mat[i][j] = min(ele, bottom, right)
+                    mat[i][j] = min(mat[i][j], bottom, right)
         return mat
 
 dummy = Solution()
