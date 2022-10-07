@@ -149,6 +149,9 @@ Completed:-
      * Flood Fill
      * 01 Matrix
      * Keys and Rooms
+ * Sorting
+   * Fundamentals of Sorting
+   * Comparison Based Sort
 
      
 Pending:-
@@ -295,6 +298,9 @@ Pending:-
 | Queue & Stack    | Conclusion                               | 01 Matrix                        |     both      |   05-Oct-2022   |    538 ms     |         99.48%          |     16.5 MB     |            99.24%            | <sup>3</sup>                                                                                                                                                                      |                                                                                                                                                                                                                   
 | Queue & Stack    | Conclusion                               | Keys and Rooms                   |     both      |   06-Oct-2022   |     66 ms     |         96.65%          |     14.2 MB     |             99.88%           | <sup>3</sup>                                                                                                                                                                      |                                                                                                                                                                                                                   
 
+| Explore- module | Topic                  | Problem     | Solution_type | Submission_date | Required_time | Faster_than<sup>1</sup> | Required_Memory | Less_memory_than<sup>2</sup> | Remarks |
+|-----------------|------------------------|:------------|:-------------:|:---------------:|:-------------:|:-----------------------:|:---------------:|:----------------------------:|:--------|
+| Sorting         | Comparison Based Sort  | Sort Colors |      --       |   ---Oct-2022   |     -- ms     |         --.--%          |     --.- MB     |            --.--%            |         |                                                                                                                                                                                                                   
 
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
