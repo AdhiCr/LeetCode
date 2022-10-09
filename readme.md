@@ -152,6 +152,8 @@ Completed:-
  * Sorting
    * Fundamentals of Sorting
    * Comparison Based Sort
+     * Sort Colors
+     * Height Checker - already completed in "Arrays 101" -> "Conclusion"
 
      
 Pending:-
