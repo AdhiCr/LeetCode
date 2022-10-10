@@ -8,6 +8,9 @@ class ListNode:
 
 class Solution:
     def insertionSortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        if not head or not head.next:
+            return head
+
         dummy_head = ListNode(next=head)
         p_1, p_2 = head, head.next
 
