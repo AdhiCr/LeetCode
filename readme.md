@@ -306,11 +306,12 @@ Pending:-
 |-----------------|------------------------|:--------------------|:-------------:|:---------------:|:-------------:|:-----------------------:|:---------------:|:----------------------------:|:-----------------|
 | Sorting         | Comparison Based Sort  | Sort Colors         |     both      |   08-Oct-2022   |     35 ms     |         93.85%          |     13.7 MB     |            97.22%            | <sup>3</sup>     |                                                                                                                                                                                                                   
 | Sorting         | Comparison Based Sort  | Insertion Sort List |     both      |   10-Oct-2022   |    231 ms     |         80.27%          |     16.6 MB     |            96.45%            | <sup>3</sup>     |                                                                                                                                                                                                                   
-| Sorting         | Comparison Based Sort  | Sort an Array       |      --       |   ---Oct-2022   |     -- ms     |         --.--%          |     --.- MB     |            --.--%            | <sup>3</sup>     |                                                                                                                                                                                                                   
+| Sorting         | Comparison Based Sort  | Sort an Array       |      --       |   12-Oct-2022   |    7161 ms    |      <sup>4</sup>       |     21.2 MB     |            91.13%            | <sup>3</sup>     |                                                                                                                                                                                                                   
 
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
 
 <sup>3</sup>: Submitting the same code a few times resulted in slightly varying results, the best speed and memory are reported together here. This also indicates the metrics reported by LeetCode are not consistent, and there by consider them only as a general indication of performance
+<sup>4</sup>: Beyond the max graph display range
  
