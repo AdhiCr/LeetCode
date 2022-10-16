@@ -159,6 +159,7 @@ Completed:-
      * Kth Largest Element in an Array
    * Non-Comparison Based Sort
      * Sort Colors - already completed in "Sorting" -> "Comparison Based Sort"
+     * Minimum Absolute Difference
 
      
 Pending:-
@@ -311,6 +312,7 @@ Pending:-
 | Sorting         | Comparison Based Sort     | Insertion Sort List             |     both      |   10-Oct-2022   |    231 ms     |         80.27%          |     16.6 MB     |            96.45%            | <sup>3</sup>                         |                                                                                                                                                                                                                   
 | Sorting         | Comparison Based Sort     | Sort an Array                   |      --       |   13-Oct-2022   |    2518 ms    |         44.36%          |     21.2 MB     |            93.24%            | <sup>3</sup> - To be worked on later |                                                                                                                                                                                                                   
 | Sorting         | Comparison Based Sort     | Kth Largest Element in an Array |      --       |   14-Oct-2022   |    628 ms     |         85.56%          |     27.8 MB     |            33.06%            | <sup>3</sup>                         |                                                                                                                                                                                                                   
+| Sorting         | Comparison Based Sort     | Minimum Absolute Difference     |      --       |   16-Oct-2022   |    382 ms     |         90.10%          |     29.0 MB     |           30.95 %            |                          |                                                                                                                                                                                                                   
 
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
