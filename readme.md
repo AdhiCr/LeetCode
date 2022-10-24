@@ -162,6 +162,8 @@ Completed:-
      * Minimum Absolute Difference
      * Query Kth Smallest Trimmed Number
      * Maximum Gap
+ * Recursion I
+   * Principle of Recursion
 
      
 Pending:-
