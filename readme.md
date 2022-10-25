@@ -164,10 +164,10 @@ Completed:-
      * Maximum Gap
  * Recursion I
    * Principle of Recursion
+     * Reverse String
 
      
 Pending:-
- * Recursion I
  * Heap
  * Binary Search
  * Binary Tree
@@ -322,7 +322,10 @@ Pending:-
 | Sorting         | Non-comparison Based Sort   | Query Kth Smallest Trimmed Number |     both      |   21-Oct-2022   |    937 ms     |         84.95%          |     13.9 MB     |            99.19%            | <sup>3</sup> - To be worked on later  |                                                                                                                                                                                                                   
 | Sorting         | Non-comparison Based Sort   | Maximum Gap                       |     speed     |   22-Oct-2022   |    990 ms     |         99.12%          |     27.7 MB     |            73.36%            | <sup>3</sup> - To be worked on later  |                                                                                                                                                                                                                   
 
-
+| Explore- module | Topic                   | Problem                | Solution_type | Submission_date | Required_time | Faster_than<sup>1</sup> | Required_Memory | Less_memory_than<sup>2</sup> | Remarks                                                                                        |
+|-----------------|-------------------------|:-----------------------|:-------------:|:---------------:|:-------------:|:-----------------------:|:---------------:|:----------------------------:|:-----------------------------------------------------------------------------------------------|
+| Recursion I     | Principle of Recursion  | Reverse String         |     speed     |   25-Oct-2022   |    210 ms     |         89.95%          |     43.2 MB     |            5.23%             | <sup>3</sup> - the goal was only to have a recursive solution, optimisation was not focused on |                                                                                                                                                                                                                   
+    
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
 
