@@ -168,6 +168,7 @@ Completed:-
      * Swap Nodes in Pairs
      * Reverse Linked List
      * Search in a Binary Search Tree
+     * Pascal's Triangle II - already completed in "Array and String" -> "Conclusion"
 
      
 Pending:-
