@@ -170,8 +170,8 @@ Completed:-
      * Search in a Binary Search Tree
      * Pascal's Triangle II - already completed in "Array and String" -> "Conclusion"
    * Memoization
-     * Fibonacci Number 
-
+     * Fibonacci Number
+     * Climbing Stairs
      
 Pending:-
  * Heap
@@ -334,7 +334,8 @@ Pending:-
 | Recursion I     | Principle of Recursion | Swap Nodes in Pairs            |     both      |   27-Oct-2022   |     40 ms     |         81.91%          |     13.8 MB     |            97.40%            | <sup>3</sup>                                                                                   |                                                                                                                                                                                                                   
 | Recursion I     | Principle of Recursion | Reverse Linked List            |      --       |   02-Nov-2022   |     39 ms     |         92.24%          |     20.4 MB     |            14.89%            | <sup>3</sup>                                                                                   |                                                                                                                                                                                                                   
 | Recursion I     | Principle of Recursion | Search in a Binary Search Tree |     both      |   03-Nov-2022   |     83 ms     |         90.60%          |     16.4 MB     |            95.74%            | <sup>3</sup>                                                                                   |                                                                                                                                                                                                                   
-| Recursion I     | Memoization            | Fibonacci Number               |     both      |   05-Nov-2022   |     28 ms     |         98.15%          |     13.8 MB     |           96.01%             | <sup>3</sup>                                                                                   |                                                                                                                                                                                                                   
+| Recursion I     | Memoization            | Fibonacci Number               |     both      |   05-Nov-2022   |     28 ms     |         98.15%          |     13.8 MB     |            96.01%            | <sup>3</sup>                                                                                   |                                                                                                                                                                                                                   
+| Recursion I     | Memoization            | Climbing Stairs                |      --       |   ---Nov-2022   |     -- ms     |         --.--%          |     --.- MB     |            --.--%            | -                                                                                              |                                                                                                                                                                                                                   
     
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
