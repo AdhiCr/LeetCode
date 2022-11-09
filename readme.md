@@ -172,6 +172,8 @@ Completed:-
    * Memoization
      * Fibonacci Number
      * Climbing Stairs
+   * Complexity Analysis
+     * Maximum Depth of Binary Tree
      
 Pending:-
  * Heap
@@ -335,7 +337,8 @@ Pending:-
 | Recursion I     | Principle of Recursion | Reverse Linked List            |      --       |   02-Nov-2022   |     39 ms     |         92.24%          |     20.4 MB     |            14.89%            | <sup>3</sup>                                                                                   |                                                                                                                                                                                                                   
 | Recursion I     | Principle of Recursion | Search in a Binary Search Tree |     both      |   03-Nov-2022   |     83 ms     |         90.60%          |     16.4 MB     |            95.74%            | <sup>3</sup>                                                                                   |                                                                                                                                                                                                                   
 | Recursion I     | Memoization            | Fibonacci Number               |     both      |   05-Nov-2022   |     28 ms     |         98.15%          |     13.8 MB     |            96.01%            | <sup>3</sup>                                                                                   |                                                                                                                                                                                                                   
-| Recursion I     | Memoization            | Climbing Stairs                |     both      |   08-Nov-2022   |     25 ms     |         98.55%          |     13.7 MB     |            99.81%            | <sup>3</sup>                                                                                              |                                                                                                                                                                                                                   
+| Recursion I     | Memoization            | Climbing Stairs                |     both      |   08-Nov-2022   |     25 ms     |         98.55%          |     13.7 MB     |            99.81%            | <sup>3</sup>                                                                                   |                                                                                                                                                                                                                   
+| Recursion I     | Complexity Analysis    | Maximum Depth of Binary Tree   |     both      |   09-Nov-2022   |     31 ms     |         99.84%          |     16.2 MB     |            75.00%            | <sup>3</sup> - Probably better solved with BFS                                                 |                                                                                                                                                                                                                   
     
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
