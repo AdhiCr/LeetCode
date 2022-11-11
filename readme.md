@@ -175,6 +175,8 @@ Completed:-
    * Complexity Analysis
      * Maximum Depth of Binary Tree
      * Pow(x, n)
+   * Conclusion
+     *  
      
 Pending:-
  * Heap
@@ -340,7 +342,8 @@ Pending:-
 | Recursion I     | Memoization            | Fibonacci Number               |     both      |   05-Nov-2022   |     28 ms     |         98.15%          |     13.8 MB     |            96.01%            | <sup>3</sup>                                                                                   |                                                                                                                                                                                                                   
 | Recursion I     | Memoization            | Climbing Stairs                |     both      |   08-Nov-2022   |     25 ms     |         98.55%          |     13.7 MB     |            99.81%            | <sup>3</sup>                                                                                   |                                                                                                                                                                                                                   
 | Recursion I     | Complexity Analysis    | Maximum Depth of Binary Tree   |     both      |   09-Nov-2022   |     31 ms     |         99.84%          |     16.2 MB     |            75.00%            | <sup>3</sup> - Probably better solved with BFS                                                 |                                                                                                                                                                                                                   
-| Recursion I     | Complexity Analysis    | Pow(x, n)                      |     both      |   10-Nov-2022   |     28 ms     |         97.54%          |     13.7 MB     |            97.89%             | <sup>3</sup> - Probably better solved with BFS                                                 |                                                                                                                                                                                                                   
+| Recursion I     | Complexity Analysis    | Pow(x, n)                      |     both      |   10-Nov-2022   |     28 ms     |         97.54%          |     13.7 MB     |            97.89%            | <sup>3</sup> - Probably better solved with BFS                                                 |                                                                                                                                                                                                                   
+| Recursion I     | Conclusion             | --                             |      --       |   ---Nov-2022   |     -- ms     |         --.--%          |     --.- MB     |            --.--%            | <sup>3</sup> - Probably better solved with BFS                                                 |                                                                                                                                                                                                                   
    
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
