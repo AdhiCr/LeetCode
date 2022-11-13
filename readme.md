@@ -177,6 +177,7 @@ Completed:-
      * Pow(x, n)
    * Conclusion
      * Merge Two Sorted Lists
+     * K-th Symbol in Grammar
      
 Pending:-
  * Heap
@@ -343,8 +344,9 @@ Pending:-
 | Recursion I     | Memoization            | Climbing Stairs                |     both      |   08-Nov-2022   |     25 ms     |         98.55%          |     13.7 MB     |            99.81%            | <sup>3</sup>                                                                                   |                                                                                                                                                                                                                   
 | Recursion I     | Complexity Analysis    | Maximum Depth of Binary Tree   |     both      |   09-Nov-2022   |     31 ms     |         99.84%          |     16.2 MB     |            75.00%            | <sup>3</sup> - Probably better solved with BFS                                                 |                                                                                                                                                                                                                   
 | Recursion I     | Complexity Analysis    | Pow(x, n)                      |     both      |   10-Nov-2022   |     28 ms     |         97.54%          |     13.7 MB     |            97.89%            | <sup>3</sup> - Probably better solved with BFS                                                 |                                                                                                                                                                                                                   
-| Recursion I     | Conclusion             | Merge Two Sorted Lists         |     speed     |   12-Nov-2022   |     38 ms     |         94.16%          |     14.0 MB     |            33.21%            |                                                                                                |
-| Recursion I     | Conclusion             | Merge Two Sorted Lists         |    memory     |   12-Nov-2022   |     58 ms     |         75.34%          |     13.9 MB     |            79.81%            |                                                                                                |
+| Recursion I     | Conclusion             | Merge Two Sorted Lists         |     speed     |   12-Nov-2022   |     38 ms     |         94.16%          |     14.0 MB     |            33.21%            | <sup>3</sup>                                                                                   |
+| Recursion I     | Conclusion             | Merge Two Sorted Lists         |    memory     |   12-Nov-2022   |     58 ms     |         75.34%          |     13.9 MB     |            79.81%            | <sup>3</sup>                                                                                   |
+| Recursion I     | Conclusion             | K-th Symbol in Grammar         |     both      |   13-Nov-2022   |     34 ms     |         87.74%          |     13.8 MB     |            98.30%            | <sup>3</sup>                                                                                   |
   
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
