@@ -1,5 +1,8 @@
 class Solution:
     def kthGrammar(self, n: int, k: int) -> int:
+        """
+        see: https://www.youtube.com/watch?v=tuMWyDsIpEQ&t=375s
+        """
         def bitCount(n):
             result = 0
             while n:
