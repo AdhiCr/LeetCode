@@ -10,9 +10,14 @@ class TreeNode:
 
 class Solution:
     def generateTrees(self, n: int) -> List[Optional[TreeNode]]:
+        unique_bsts = {}
         def buildTree(first, last):
+            if unique_bsts.get((first, last), []) != []:
+                return unique_bsts.get((first, last))
+
             if first > last:
                 return [None]
+
             trees = []
             for root in range(first, last + 1):
                 for left in buildTree(first, root-1):
@@ -21,5 +26,6 @@ class Solution:
                         node.left = left
                         node.right = right
                         trees.append(node)
+            unique_bsts[(first, last)] = trees
             return trees
         return buildTree(1, n)
