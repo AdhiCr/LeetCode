@@ -179,10 +179,10 @@ Completed:-
      * Merge Two Sorted Lists
      * K-th Symbol in Grammar
      * Unique Binary Search Trees II
+ * Binary Search
      
 Pending:-
  * Heap
- * Binary Search
  * Binary Tree
  * Binary Search Tree
  * Trie
@@ -350,7 +350,11 @@ Pending:-
 | Recursion I     | Conclusion             | K-th Symbol in Grammar         |     both      |   13-Nov-2022   |     34 ms     |         87.74%          |     13.8 MB     |            98.30%            | <sup>3</sup>                                                                                   |
 | Recursion I     | Conclusion             | K-th Symbol in Grammar         |     both      |   14-Nov-2022   |     25 ms     |         98.78%          |     13.8 MB     |            98.28%            | <sup>3</sup>                                                                                   |
 | Recursion I     | Conclusion             | Unique Binary Search Trees II  |     both      |   15-Nov-2022   |     57 ms     |         95.56%          |     14.7 MB     |            96.28%            | <sup>3</sup>                                                                                   |
-  
+
+| Explore- module | Topic      | Problem       | Solution_type | Submission_date | Required_time | Faster_than<sup>1</sup> | Required_Memory | Less_memory_than<sup>2</sup> | Remarks |
+|-----------------|------------|:--------------|:-------------:|:---------------:|:-------------:|:-----------------------:|:---------------:|:----------------------------:|:--------|
+| Binary Search   | Background | Binary Search |      --       |   ---Nov-2022   |     -- ms     |         --.--%          |     --.- MB     |            --.--%            |         |                                                                                                                                                                                                                   
+
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
 
