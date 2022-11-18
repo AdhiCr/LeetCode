@@ -180,6 +180,7 @@ Completed:-
      * K-th Symbol in Grammar
      * Unique Binary Search Trees II
  * Binary Search
+   * Binary Search
      
 Pending:-
  * Heap
