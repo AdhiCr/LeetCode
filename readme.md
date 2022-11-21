@@ -185,6 +185,7 @@ Completed:-
    * Template I
      * Sqrt(x)
      * Guess Number Higher or Lower
+     * Search in Rotated Sorted Array
      
 Pending:-
  * Heap
@@ -356,11 +357,12 @@ Pending:-
 | Recursion I     | Conclusion             | K-th Symbol in Grammar         |     both      |   14-Nov-2022   |     25 ms     |         98.78%          |     13.8 MB     |            98.28%            | <sup>3</sup>                                                                                   |
 | Recursion I     | Conclusion             | Unique Binary Search Trees II  |     both      |   15-Nov-2022   |     57 ms     |         95.56%          |     14.7 MB     |            96.28%            | <sup>3</sup>                                                                                   |
 
-| Explore- module | Topic      | Problem                       | Solution_type | Submission_date | Required_time | Faster_than<sup>1</sup> | Required_Memory | Less_memory_than<sup>2</sup> | Remarks      |
-|-----------------|------------|:------------------------------|:-------------:|:---------------:|:-------------:|:-----------------------:|:---------------:|:----------------------------:|:-------------|
-| Binary Search   | Background | Binary Search                 |     both      |   17-Nov-2022   |    244 ms     |         97.00%          |     15.5 MB     |            74.08%            | <sup>3</sup> |                                                                                                                                                                                                                   
-| Binary Search   | Template I | Sqrt(x)                       |     both      |   19-Nov-2022   |     39 ms     |         93.13%          |     13.6 MB     |            99.98%            | <sup>3</sup> |                                                                                                                                                                                                                   
-| Binary Search   | Template I | Guess Number Higher or Lower  |     both      |   20-Nov-2022   |     26 ms     |         98.21%          |     13.8 MB     |            97.98%            | <sup>3</sup> |                                                                                                                                                                                                                   
+| Explore- module | Topic      | Problem                         | Solution_type | Submission_date | Required_time | Faster_than<sup>1</sup> | Required_Memory | Less_memory_than<sup>2</sup> | Remarks      |
+|-----------------|------------|:--------------------------------|:-------------:|:---------------:|:-------------:|:-----------------------:|:---------------:|:----------------------------:|:-------------|
+| Binary Search   | Background | Binary Search                   |     both      |   17-Nov-2022   |    244 ms     |         97.00%          |     15.5 MB     |            74.08%            | <sup>3</sup> |                                                                                                                                                                                                                   
+| Binary Search   | Template I | Sqrt(x)                         |     both      |   19-Nov-2022   |     39 ms     |         93.13%          |     13.6 MB     |            99.98%            | <sup>3</sup> |                                                                                                                                                                                                                   
+| Binary Search   | Template I | Guess Number Higher or Lower    |     both      |   20-Nov-2022   |     26 ms     |         98.21%          |     13.8 MB     |            97.98%            | <sup>3</sup> |                                                                                                                                                                                                                   
+| Binary Search   | Template I | Search in Rotated Sorted Array  |     both      |   21-Nov-2022   |     36 ms     |         99.01%          |     14.1 MB     |            91.05%            | <sup>3</sup> |                                                                                                                                                                                                                   
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
