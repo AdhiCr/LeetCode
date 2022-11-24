@@ -4,10 +4,10 @@
 class Solution:
     def firstBadVersion(self, n: int, bad_version: int) -> int:
         left, right = 1, n
-        while left < right:
+        while left <= right:
             mid = (left + right) // 2
             if mid == bad_version:
-                right = mid
+                right = mid - 1
             else:
                 left = mid + 1
 
@@ -16,6 +16,7 @@ class Solution:
 
 
 dummy = Solution()
-print(dummy.firstBadVersion(5,4))
-print(dummy.firstBadVersion(1,1))
-print(dummy.firstBadVersion(9,9))
+# print(dummy.firstBadVersion(5,4))
+# print(dummy.firstBadVersion(1,1))
+# print(dummy.firstBadVersion(9,9))
+print(dummy.firstBadVersion(3,2))
