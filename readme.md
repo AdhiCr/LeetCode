@@ -188,6 +188,7 @@ Completed:-
      * Search in Rotated Sorted Array 
    * Template II
      * First Bad Version
+     * Find Peak Element
     
 
 Pending:-
@@ -367,6 +368,7 @@ Pending:-
 | Binary Search   | Template I  | Guess Number Higher or Lower   |     both      |   20-Nov-2022   |     26 ms     |         98.21%          |     13.8 MB     |            97.98%            | <sup>3</sup> |                                                                                                                                                                                                                   
 | Binary Search   | Template I  | Search in Rotated Sorted Array |     both      |   21-Nov-2022   |     36 ms     |         99.01%          |     14.1 MB     |            91.05%            | <sup>3</sup> |                                                                                                                                                                                                                   
 | Binary Search   | Template II | First Bad Version              |     both      |   24-Nov-2022   |     15 ms     |         100.00%         |     13.8 MB     |            97.55%            | <sup>3</sup> |                                                                                                                                                                                                                   
+| Binary Search   | Template II | Find Peak Element              |      --       |   ---Nov-2022   |     -- ms     |         --.--%          |     --.- MB     |            --.--%            |              |                                                                                                                                                                                                                   
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
