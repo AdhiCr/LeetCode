@@ -189,6 +189,9 @@ Completed:-
    * Template II
      * First Bad Version
      * Find Peak Element
+     * Find Minimum in Rotated Sorted Array
+   * Template III
+     * Search for a Range
     
 
 Pending:-
