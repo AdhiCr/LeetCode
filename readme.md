@@ -192,6 +192,8 @@ Completed:-
      * Find Minimum in Rotated Sorted Array
    * Template III
      * Search for a Range
+     * Find K Closest Elements
+     * Find Peak Element - already completed in "Binary Search" -> "Template II"
     
 
 Pending:-
