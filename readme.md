@@ -194,6 +194,9 @@ Completed:-
      * Search for a Range
      * Find K Closest Elements
      * Find Peak Element - already completed in "Binary Search" -> "Template II"
+   * Template Analysis
+     * Closest Binary Search Tree Value - (Locked for premium users - not done)
+     * Search in a Sorted Array of Unknown Size - (Locked for premium users - not done)
     
 
 Pending:-
