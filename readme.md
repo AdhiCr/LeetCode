@@ -197,6 +197,9 @@ Completed:-
    * Template Analysis
      * Closest Binary Search Tree Value - (Locked for premium users - not done)
      * Search in a Sorted Array of Unknown Size - (Locked for premium users - not done)
+   * Conclusion
+     * Pow(x, n) - already completed in "Recursion I" -> "Complexity Analysis"
+     * Valid Perfect Square
     
 
 Pending:-
@@ -380,6 +383,7 @@ Pending:-
 | Binary Search   | Template II  | Find Minimum in Rotated Sorted Array |     both      |   27-Nov-2022   |     40 ms     |         96.23%          |     14.1 MB     |            96.16%            | <sup>3</sup> |                                                                                                                                                                                                                   
 | Binary Search   | Template III | Search for a Range                   |     both      |   29-Nov-2022   |     82 ms     |         98.25%          |     15.4 MB     |            93.20%            | <sup>3</sup> |                                                                                                                                                                                                                   
 | Binary Search   | Template III | Find K Closest Elements              |     both      |   30-Nov-2022   |    286 ms     |         99.96%          |     15.4 MB     |            98.46%            | <sup>3</sup> |                                                                                                                                                                                                                   
+| Binary Search   | Conclusion   | Valid Perfect Square                 |      --       |   ---Dec-2022   |     -- ms     |         --.--%          |     --.- MB     |            --.--%            | <sup>3</sup> |                                                                                                                                                                                                                   
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
