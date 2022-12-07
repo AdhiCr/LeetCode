@@ -204,6 +204,9 @@ Completed:-
    * More Practices
      * Find Minimum in Rotated Sorted Array - already completed in "Binary Search" -> "Template II"
      * Find Minimum in Rotated Sorted Array II
+     * Intersection of Two Arrays - already completed in "Hash Table" -> "Practical Application - Hash Set"
+     * Intersection of Two Arrays II - already completed in "Hash Table" -> "Practical Application - Hash Map"
+     * Two Sum II - Input array is sorted - already completed in "Array and String" -> "Two-Pointer Technique"
 
 
     
