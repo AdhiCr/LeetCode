@@ -210,6 +210,7 @@ Completed:-
    * More Practices II
      * Find the Duplicate Number
      * Median of Two Sorted Arrays
+     * Find K-th Smallest Pair Distance
 
 
     
@@ -400,6 +401,7 @@ Pending:-
 | Binary Search   | More Practices    | Find Minimum in Rotated Sorted Array II  |     both      |   06-Dec-2022   |     38 ms     |         100.00%         |     14.3 MB     |            86.20%            | <sup>3</sup> |                                                                                                                                                                                                                   
 | Binary Search   | More Practices II | Find the Duplicate Number                |     both      |   08-Dec-2022   |    649 ms     |         93.69%          |     27.9 MB     |            91.60%            | <sup>3</sup> |                                                                                                                                                                                                                   
 | Binary Search   | More Practices II | Median of Two Sorted Arrays              |     both      |   10-Dec-2022   |     87 ms     |         98.88%          |     14.1 MB     |            97.80%            | <sup>3</sup> |                                                                                                                                                                                                                   
+| Binary Search   | More Practices II | Find K-th Smallest Pair Distance         |     both      |   11-Dec-2022   |    121 ms     |         95.56%          |     14.9 MB     |            49.51%             | <sup>3</sup> |                                                                                                                                                                                                                   
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
