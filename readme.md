@@ -212,10 +212,10 @@ Completed:-
      * Median of Two Sorted Arrays
      * Find K-th Smallest Pair Distance
      * Split Array Largest Sum
+ * Heap - (Whole chapter Locked for premium users - not done)
 
 
 Pending:-
- * Heap
  * Binary Tree
  * Binary Search Tree
  * Trie
