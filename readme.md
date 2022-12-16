@@ -213,10 +213,12 @@ Completed:-
      * Find K-th Smallest Pair Distance
      * Split Array Largest Sum
  * Heap - (Whole chapter Locked for premium users - not done)
+ * Binary Tree
+   * Traverse A Tree
+     * Binary Tree Preorder Traversal
 
 
 Pending:-
- * Binary Tree
  * Binary Search Tree
  * Trie
  * N-ary Tree
@@ -401,7 +403,11 @@ Pending:-
 | Binary Search   | More Practices II | Find the Duplicate Number                |     both      |   08-Dec-2022   |    649 ms     |         93.69%          |     27.9 MB     |            91.60%            | <sup>3</sup> |                                                                                                                                                                                                                   
 | Binary Search   | More Practices II | Median of Two Sorted Arrays              |     both      |   10-Dec-2022   |     87 ms     |         98.88%          |     14.1 MB     |            97.80%            | <sup>3</sup> |                                                                                                                                                                                                                   
 | Binary Search   | More Practices II | Find K-th Smallest Pair Distance         |     both      |   11-Dec-2022   |    114 ms     |         98.47%          |     14.9 MB     |            92.79%            | <sup>3</sup> |                                                                                                                                                                                                                   
-| Binary Search   | More Practices II | Split Array Largest Sum                  |     both      |   12-Dec-2022   |     34 ms     |         99.25%          |     13.9 MB     |            97.80%            | <sup>3</sup> |                                                                                                                                                                                                                   
+| Binary Search   | More Practices II | Split Array Largest Sum                  |     both      |   12-Dec-2022   |     32 ms     |         99.43%          |     13.9 MB     |            97.80%            | <sup>3</sup> |                                                                                                                                                                                                                   
+
+| Explore- module | Topic            | Problem                         | Solution_type | Submission_date | Required_time | Faster_than<sup>1</sup> | Required_Memory | Less_memory_than<sup>2</sup> | Remarks      |
+|-----------------|------------------|:--------------------------------|:-------------:|:---------------:|:-------------:|:-----------------------:|:---------------:|:----------------------------:|:-------------|
+| Binary Tree     | Traverse A Tree  | Binary Tree Preorder Traversal  |     both      |   15-Dec-2022   |     24 ms     |         99.40%          |     13.7 MB     |            96.90%            | <sup>3</sup> |                                                                                                                                                                                                                   
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
