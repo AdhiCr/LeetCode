@@ -217,6 +217,7 @@ Completed:-
    * Traverse A Tree
      * Binary Tree Preorder Traversal
      * Binary Tree Inorder Traversal
+     * Binary Tree Postorder Traversal
 
 
 Pending:-
@@ -406,10 +407,11 @@ Pending:-
 | Binary Search   | More Practices II | Find K-th Smallest Pair Distance         |     both      |   11-Dec-2022   |    114 ms     |         98.47%          |     14.9 MB     |            92.79%            | <sup>3</sup> |                                                                                                                                                                                                                   
 | Binary Search   | More Practices II | Split Array Largest Sum                  |     both      |   12-Dec-2022   |     32 ms     |         99.43%          |     13.9 MB     |            97.80%            | <sup>3</sup> |                                                                                                                                                                                                                   
 
-| Explore- module | Topic            | Problem                        | Solution_type | Submission_date | Required_time | Faster_than<sup>1</sup> | Required_Memory | Less_memory_than<sup>2</sup> | Remarks      |
-|-----------------|------------------|:-------------------------------|:-------------:|:---------------:|:-------------:|:-----------------------:|:---------------:|:----------------------------:|:-------------|
-| Binary Tree     | Traverse A Tree  | Binary Tree Preorder Traversal |     both      |   15-Dec-2022   |     24 ms     |         99.40%          |     13.7 MB     |            96.90%            | <sup>3</sup> |                                                                                                                                                                                                                   
-| Binary Tree     | Traverse A Tree  | Binary Tree Inorder Traversal  |     both      |   16-Dec-2022   |     26 ms     |         98.39%          |     13.8 MB     |            97.12%            | <sup>3</sup> |                                                                                                                                                                                                                   
+| Explore- module | Topic            | Problem                         | Solution_type | Submission_date | Required_time | Faster_than<sup>1</sup> | Required_Memory | Less_memory_than<sup>2</sup> | Remarks      |
+|-----------------|------------------|:--------------------------------|:-------------:|:---------------:|:-------------:|:-----------------------:|:---------------:|:----------------------------:|:-------------|
+| Binary Tree     | Traverse A Tree  | Binary Tree Preorder Traversal  |     both      |   15-Dec-2022   |     24 ms     |         99.40%          |     13.7 MB     |            96.90%            | <sup>3</sup> |                                                                                                                                                                                                                   
+| Binary Tree     | Traverse A Tree  | Binary Tree Inorder Traversal   |     both      |   16-Dec-2022   |     26 ms     |         98.39%          |     13.8 MB     |            97.12%            | <sup>3</sup> |                                                                                                                                                                                                                   
+| Binary Tree     | Traverse A Tree  | Binary Tree Postorder Traversal |     both      |   17-Dec-2022   |     25 ms     |         98.59%          |     13.8 MB     |            96.88%            | <sup>3</sup> |                                                                                                                                                                                                                   
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
