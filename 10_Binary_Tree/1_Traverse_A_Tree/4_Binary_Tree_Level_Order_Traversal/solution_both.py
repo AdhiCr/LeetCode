@@ -10,10 +10,27 @@ class TreeNode:
 
 
 class Solution:
-    def postorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
-        if not root:
-            return []
+    def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+        if root is None:
+            return root
 
-        return self.postorderTraversal(root.left) + self.postorderTraversal(root.right) + [root.val]
+        result = []
+        queue = [root]
+
+        while queue:
+            nodes = queue
+            level = []
+            children = []
+            for node in nodes:
+                level.append(node.val)
+                if node.left is not None:
+                    children.append(node.left)
+                if node.right is not None:
+                    children.append(node.right)
+
+            result.append(level)
+            queue = children
+
+        return result
 
 
