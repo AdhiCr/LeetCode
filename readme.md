@@ -221,6 +221,8 @@ Completed:-
      * Binary Tree Level Order Traversal
    * Solve Problems Recursively
      * Maximum Depth of Binary Tree - already completed in "Recursion I" -> "Complexity Analysis"
+     * Symmetric Tree
+     * Path Sum
 
 
 Pending:-
@@ -417,6 +419,7 @@ Pending:-
 | Binary Tree     | Traverse A Tree             | Binary Tree Postorder Traversal   |     both      |   17-Dec-2022   |     25 ms     |         98.59%          |     13.8 MB     |            96.88%            | <sup>3</sup> |                                                                                                                                                                                                                   
 | Binary Tree     | Traverse A Tree             | Binary Tree Level Order Traversal |     both      |   19-Dec-2022   |     31 ms     |         97.48%          |     14.1 MB     |            99.20%            | <sup>3</sup> |                                                                                                                                                                                                                   
 | Binary Tree     | Solve Problems Recursively  | Symmetric Tree                    |     both      |   21-Dec-2022   |     27 ms     |         99.11%          |     13.9 MB     |            94.52%            | <sup>3</sup> |                                                                                                                                                                                                                   
+| Binary Tree     | Solve Problems Recursively  | Path Sum                          |     both      |   22-Dec-2022   |     38 ms     |         98.36%          |     15.0 MB     |            92.46%            | <sup>3</sup> |                                                                                                                                                                                                                   
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
