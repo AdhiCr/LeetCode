@@ -227,6 +227,8 @@ Completed:-
    * Conclusion
      * Construct Binary Tree from Inorder and Postorder Traversal
      * Construct Binary Tree from Preorder and Inorder Traversal
+     * Populating Next Right Pointers in Each Node
+     * Populating Next Right Pointers in Each Node II
 
 
 Pending:-
@@ -428,6 +430,7 @@ Pending:-
 | Binary Tree     | Conclusion                 | Construct Binary Tree from Inorder and Postorder Traversal |   alternate   |   24-Dec-2022   |     52 ms     |         99.14%          |     19.8 MB     |            62.46%            | <sup>3</sup> |                                                                                                                                                                                                                   
 | Binary Tree     | Conclusion                 | Construct Binary Tree from Preorder and Inorder Traversal  |     both      |   25-Dec-2022   |     53 ms     |         99.12%          |     18.3 MB     |            99.86%            | <sup>3</sup> |                                                                                                                                                                                                                   
 | Binary Tree     | Conclusion                 | Populating Next Right Pointers in Each Node                |     both      |   26-Dec-2022   |     58 ms     |         97.54%          |     15.5 MB     |            97.66%            | <sup>3</sup> |                                                                                                                                                                                                                   
+| Binary Tree     | Conclusion                 | Populating Next Right Pointers in Each Node II             |      --       |   ---Dec-2022   |     -- ms     |         --.--%          |     --.- MB     |            --.--%            |              |                                                                                                                                                                                                                   
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
