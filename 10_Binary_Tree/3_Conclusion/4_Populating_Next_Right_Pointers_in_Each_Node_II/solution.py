@@ -11,31 +11,32 @@ class Node:
 
 class Solution:
     def connect(self, root: Node) -> Node:
-        curr = root
-        nxt = self.set_nxt(curr)
-
-        while curr and nxt:
-            if curr.left and curr.right:
-                curr.left.next = curr.right
-                if curr.next:
-                    curr.right.next = self.set_nxt(curr.next)
-            else:
-                self.set_nxt(curr).next = self.set_nxt(curr.next)
-
-            curr = curr.next
-            if not curr:
-                curr = nxt
-                nxt = self.set_nxt(curr)
-
+        if not root:
+            return
+        root.next = None
+        def dfs(node):
+            if not node:
+                return
+            if node.left:
+                if node.right:
+                    node.left.next = node.right
+                else:
+                    has_next(node.next, node.left)
+            if node.right:
+                has_next(node.next, node.right)
+            dfs(node.right)
+            dfs(node.left)
+        dfs(root)
         return root
 
-    @staticmethod
-    def set_nxt(node):
+def has_next(node, node_to_attach):
+    while node:
         if node.left:
-            return node.left
+            node_to_attach.next = node.left
+            return
         elif node.right:
-            return node.right
-        else:
-            return None
+            node_to_attach.next = node.right
+            return
+        node = node.next
 
 
