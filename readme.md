@@ -230,6 +230,7 @@ Completed:-
      * Populating Next Right Pointers in Each Node
      * Populating Next Right Pointers in Each Node II
      * Lowest Common Ancestor of a Binary Tree
+     * Serialize and Deserialize Binary Tree
 
 
 Pending:-
@@ -433,6 +434,7 @@ Pending:-
 | Binary Tree     | Conclusion                 | Populating Next Right Pointers in Each Node                |     both      |   26-Dec-2022   |     58 ms     |         97.54%          |     15.5 MB     |            97.66%            | <sup>3</sup> |                                                                                                                                                                                                                   
 | Binary Tree     | Conclusion                 | Populating Next Right Pointers in Each Node II             |     both      |   29-Dec-2022   |     47 ms     |         95.10%          |     15.3 MB     |            92.57%            | <sup>3</sup> |                                                                                                                                                                                                             
 | Binary Tree     | Conclusion                 | Lowest Common Ancestor of a Binary Tree                    |     speed     |   01-Jan-2023   |     58 ms     |         99.63%          |     26.2 MB     |            64.49%            | <sup>3</sup> |                                                                                                                                                                                                             
+| Binary Tree     | Conclusion                 | Serialize and Deserialize Binary Tree                      |    memory     |   02-Jan-2023   |    358 ms     |         36.67%          |     20.0 MB     |            92.77%            | <sup>3</sup> |                                                                                                                                                                                                             
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
