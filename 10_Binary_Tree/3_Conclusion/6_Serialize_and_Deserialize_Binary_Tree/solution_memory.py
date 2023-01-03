@@ -6,7 +6,7 @@ class TreeNode(object):
         self.left = None
         self.right = None
 
-class codec:
+class Codec:
     def serialize(self, root):
         if not root:
             return "X"
@@ -35,7 +35,7 @@ class codec:
 
         return construct_tree(data)[0]
 
-dummy = codec()
+dummy = Codec()
 tree = dummy.deserialize(['1', '2', 'X', 'X', '3', '4', 'X', 'X', '5', 'X', 'X'])
 tmp = 5
 
