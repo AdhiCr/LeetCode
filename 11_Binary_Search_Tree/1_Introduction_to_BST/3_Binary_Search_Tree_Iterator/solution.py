@@ -12,12 +12,24 @@ class TreeNode:
 class BSTIterator:
 
     def __init__(self, root: Optional[TreeNode]):
-        pass
+        self.stack = []
+
+        curr = root
+        while curr:
+            self.stack.append(curr)
+            curr = curr.left
+
     def next(self) -> int:
-        pass
+        popped = self.stack.pop()
+
+        curr = popped.right
+        while curr:
+            self.stack.append(curr)
+            curr = curr.left
+        return popped.val
 
     def hasNext(self) -> bool:
-        pass
+        return len(self.stack) > 0
 
 # Your BSTIterator object will be instantiated and called as such:
 # obj = BSTIterator(root)
