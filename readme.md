@@ -236,6 +236,10 @@ Completed:-
      * Validate Binary Search Tree
      * Inorder Successor in BST - (Locked for premium users - not done)
      * Binary Search Tree Iterator
+   * Basic Operations in BST
+     * Search in a Binary Search Tree
+   * Conclusion
+   * Appendix: Height-balanced BST
 
 
 Pending:-
@@ -442,11 +446,12 @@ Pending:-
 | Binary Tree     | Conclusion                 | Serialize and Deserialize Binary Tree                      |   alternate   |   03-Jan-2023   |    109 ms     |         97.79%          |     17.1 MB     |            99.81%            | <sup>3</sup> |                                                                                                                                                                                                             
 | Binary Tree     | Conclusion                 | Serialize and Deserialize Binary Tree                      |     both      |   03-Jan-2023   |    113 ms     |         95.47%          |     19.9 MB     |            97.90%            | <sup>3</sup> |                                                                                                                                                                                                             
 
-| Explore- module    | Topic                        | Problem                     | Solution_type | Submission_date | Required_time | Faster_than<sup>1</sup> | Required_Memory | Less_memory_than<sup>2</sup> | Remarks      |
-|--------------------|------------------------------|:----------------------------|:-------------:|:---------------:|:-------------:|:-----------------------:|:---------------:|:----------------------------:|:-------------|
-| Binary Search Tree | Introduction to BST          | Validate Binary Search Tree |     speed     |   04-Jan-2023   |     44 ms     |         90.93%          |     16.4 MB     |            78.33%            | <sup>3</sup> |                                                                                                                                                                                                                   
-| Binary Search Tree | Introduction to BST          | Validate Binary Search Tree |    memory     |   04-Jan-2023   |     50 ms     |         76.30%          |     16.2 MB     |            96.16%            | <sup>3</sup> |                                                                                                                                                                                                                   
-| Binary Search Tree | Binary Search Tree Iterator  | Validate Binary Search Tree |      --       |   06-Jan-2023   |     65 ms     |         98.37%          |     20.3 MB     |            62.58%            | <sup>3</sup> |                                                                                                                                                                                                                   
+| Explore- module    | Topic                       | Problem                         | Solution_type | Submission_date | Required_time | Faster_than<sup>1</sup> | Required_Memory | Less_memory_than<sup>2</sup> | Remarks      |
+|--------------------|-----------------------------|:--------------------------------|:-------------:|:---------------:|:-------------:|:-----------------------:|:---------------:|:----------------------------:|:-------------|
+| Binary Search Tree | Introduction to BST         | Validate Binary Search Tree     |     speed     |   04-Jan-2023   |     44 ms     |         90.93%          |     16.4 MB     |            78.33%            | <sup>3</sup> |                                                                                                                                                                                                                   
+| Binary Search Tree | Introduction to BST         | Validate Binary Search Tree     |    memory     |   04-Jan-2023   |     50 ms     |         76.30%          |     16.2 MB     |            96.16%            | <sup>3</sup> |                                                                                                                                                                                                                   
+| Binary Search Tree | Binary Search Tree Iterator | Validate Binary Search Tree     |     speed     |   06-Jan-2023   |     65 ms     |         98.37%          |     20.3 MB     |            62.58%            | <sup>3</sup> |                                                                                                                                                                                                                   
+| Binary Search Tree | Binary Search Tree Iterator | Validate Binary Search Tree     |    memory     |   07-Jan-2023   |     68 ms     |         96.77%          |     19.8 MB     |           100.00%            | <sup>3</sup> |                                                                                                                                                                                                                   
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
