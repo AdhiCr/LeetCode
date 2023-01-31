@@ -246,6 +246,7 @@ Completed:-
      * Contains Duplicate III
    * Appendix: Height-balanced BST
      * Balanced Binary Tree
+     * Convert Sorted Array to Binary Search Tree
 
 
 Pending:-
@@ -466,6 +467,7 @@ Pending:-
 | Binary Search Tree | Conclusion                     | Contains Duplicate III                         |   alternate   |   28-Jan-2023   |    718 ms     |         94.18%          |     42.3 MB     |            05.19%            | <sup>3</sup>  |                                                                                                                                                                                                                   
 | Binary Search Tree | Appendix: Height-balanced BST  | Balanced Binary Tree                           |   alternate   |   30-Jan-2023   |     43 ms     |         97.60%          |     18.8 MB     |            42.55%            | <sup>3</sup>  |                                                                                                                                                                                                                   
 | Binary Search Tree | Appendix: Height-balanced BST  | Balanced Binary Tree                           |     both      |   30-Jan-2023   |     38 ms     |         99.57%          |     14.7 MB     |            99.91%            | <sup>3</sup>  |                                                                                                                                                                                                                   
+| Binary Search Tree | Appendix: Height-balanced BST  | Convert Sorted Array to Binary Search Tree     |     both      |   31-Jan-2023   |     55 ms     |         96.90%          |     15.5 MB     |            76.38%            | <sup>3</sup>  |                                                                                                                                                                                                                   
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
