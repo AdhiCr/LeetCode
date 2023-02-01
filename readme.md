@@ -247,10 +247,13 @@ Completed:-
    * Appendix: Height-balanced BST
      * Balanced Binary Tree
      * Convert Sorted Array to Binary Search Tree
+ * Trie
+   * Introduction to Trie
+   * Basic Operations
+     * Implement Trie (Prefix Tree)
 
 
 Pending:-
- * Trie
  * N-ary Tree
  * Recursion II
  * Dynamic Programming
@@ -468,6 +471,10 @@ Pending:-
 | Binary Search Tree | Appendix: Height-balanced BST  | Balanced Binary Tree                           |   alternate   |   30-Jan-2023   |     43 ms     |         97.60%          |     18.8 MB     |            42.55%            | <sup>3</sup>  |                                                                                                                                                                                                                   
 | Binary Search Tree | Appendix: Height-balanced BST  | Balanced Binary Tree                           |     both      |   30-Jan-2023   |     38 ms     |         99.57%          |     14.7 MB     |            99.91%            | <sup>3</sup>  |                                                                                                                                                                                                                   
 | Binary Search Tree | Appendix: Height-balanced BST  | Convert Sorted Array to Binary Search Tree     |     both      |   31-Jan-2023   |     55 ms     |         96.90%          |     15.5 MB     |            76.38%            | <sup>3</sup>  |                                                                                                                                                                                                                   
+
+| Explore- module | Topic                     | Problem                       | Solution_type | Submission_date | Required_time | Faster_than<sup>1</sup> | Required_Memory | Less_memory_than<sup>2</sup> | Remarks |
+|-----------------|---------------------------|:------------------------------|:-------------:|:---------------:|:-------------:|:-----------------------:|:---------------:|:----------------------------:|:--------|
+| Trie            | Basic Operations          | Implement Trie (Prefix Tree)  |      --       |   ---Feb-2023   |     -- ms     |         --.--%          |     --.- MB     |            --.--%            |         |                                                                                                                                                                                                                   
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
