@@ -7,25 +7,26 @@ class Trie:
         tmp = self.trie
         for char in word:
             if not char in tmp["children"]:
-                tmp[char] = self.trie_node()
-            tmp = tmp[char]
+                tmp["children"][char] = self.trie_node()
+            tmp = tmp["children"][char]
         tmp["end_char"] = True
+        return
 
     def search(self, word: str) -> bool:
-        tmp =self.trie
+        tmp = self.trie
         for char in word:
             if not char in tmp["children"]:
                 return False
-            tmp = tmp[char]
+            tmp = tmp["children"][char]
         return tmp["end_char"]
 
 
     def startsWith(self, prefix: str) -> bool:
-        tmp = self.trie["root"]
+        tmp = self.trie
         for char in prefix:
             if not char in tmp["children"]:
                 return False
-            tmp = tmp[char]
+            tmp = tmp["children"][char]
         return True
 
     def trie_node(self, root=False, end_char=False):
