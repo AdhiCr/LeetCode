@@ -474,7 +474,7 @@ Pending:-
 
 | Explore- module | Topic                     | Problem                       | Solution_type | Submission_date | Required_time | Faster_than<sup>1</sup> | Required_Memory | Less_memory_than<sup>2</sup> | Remarks |
 |-----------------|---------------------------|:------------------------------|:-------------:|:---------------:|:-------------:|:-----------------------:|:---------------:|:----------------------------:|:--------|
-| Trie            | Basic Operations          | Implement Trie (Prefix Tree)  |      --       |   ---Feb-2023   |     -- ms     |         --.--%          |     --.- MB     |            --.--%            |         |                                                                                                                                                                                                                   
+| Trie            | Basic Operations          | Implement Trie (Prefix Tree)  |      --       |   02-Feb-2023   |     -- ms     |         --.--%          |     --.- MB     |            --.--%            |         |                                                                                                                                                                                                                   
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
