@@ -1,42 +1,80 @@
-class TrieNode:
-    def __init__(self, sum_val=0):
-        self.children = dict()
-        self.sum_val = sum_val
+# Source: https://github.com/black-shadows/LeetCode-Topicwise-Solutions/blob/master/Python/map-sum-pairs.py
+
+import collections
 
 
-class MapSum:
+class MapSum(object):
 
     def __init__(self):
-        self.root = TrieNode()
+        """
+        Initialize your data structure here.
+        """
+        _trie = lambda: collections.defaultdict(_trie)
+        self.__root = _trie()
 
-    def insert(self, key: str, val: int) -> None:
-        cur = self.root
-        cur.sum_val += val
+
+    def insert(self, key, val):
+        # Time: O(n)
+        curr = self.__root
         for c in key:
-            if c not in cur.children:
-                cur.children[c] = TrieNode(val)
-            elif c in cur.children:
-                cur.children[c].sum_val += val
-            cur = cur.children[c]
+            curr = curr[c]
+        delta = val
+        if "_end" in curr:
+            delta -= curr["_end"]
 
-    def sum(self, prefix: str) -> int:
-        cur = self.root
-        sum_val = 0
-        for c in prefix:
-            if c in cur.children:
-                sum_val = cur.children[c].sum_val
-                cur = cur.children[c]
+        curr = self.__root
+        for c in key:
+            curr = curr[c]
+            if "_count" in curr:
+                curr["_count"] += delta
             else:
-                sum_val = 0
-        return sum_val
+                curr["_count"] = delta
+        curr["_end"] = val
+
+
+    def sum(self, prefix):
+        # Time: O(n)
+        curr = self.__root
+        for c in prefix:
+            if c not in curr:
+                return 0
+            curr = curr[c]
+        return curr["_count"]
 
 # Your MapSum object will be instantiated and called as such:
 # obj = MapSum()
 # obj.insert(key,val)
 # param_2 = obj.sum(prefix)
 
+
 dummy = MapSum()
-print(dummy.insert("apple", 3))
-print(dummy.sum("ap"))
-print(dummy.insert("app", 2))
-print(dummy.sum("ap"))
+print(dummy.insert("apple", 3),
+      dummy.sum("ap"),
+      dummy.insert("app", 2),
+      dummy.sum("ap"))
+print("\n")
+
+dummy = MapSum()
+print(dummy.insert("a", 3),
+      dummy.sum("ap"),
+      dummy.insert("b", 2),
+      dummy.sum("a"))
+print("\n")
+
+dummy = MapSum()
+print(dummy.insert("apple", 3),
+      dummy.sum("ap"),
+      dummy.insert("app", 2),
+      dummy.insert("apple", 2),
+      dummy.sum("ap"))
+print("\n")
+"""
+["MapSum","insert","sum","insert","sum"]
+[[],["apple",3],["ap"],["app",2],["ap"]] -> [null,null,3,null,5]
+["MapSum","insert","sum","insert","sum"]
+[[],["a",3],["ap"],["b",2],["a"]] -> [null,null,0,null,3]
+["MapSum","insert","sum","insert","insert","sum"]
+[[],["apple",3],["ap"],["app",2],["apple",2],["ap"]] -> [null,null,3,null,null,4]
+["MapSum","insert","sum","insert","sum","insert","insert","sum"]
+[[],["apple",3],["ap"],["app",2],["ap"],["apple",5],["apple",1],["apple"]] -> [null,null,3,null,5,null,null,1]
+"""
