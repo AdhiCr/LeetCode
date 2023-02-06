@@ -253,6 +253,7 @@ Completed:-
      * Implement Trie (Prefix Tree)
    * Practical Application I
      * Map Sum Pairs
+     * Replace Words
 
 
 Pending:-
@@ -479,6 +480,7 @@ Pending:-
 | Trie            | Basic Operations         | Implement Trie (Prefix Tree) |     speed     |   02-Feb-2023   |    149 ms     |         90.47%          |     34.1 MB     |            05.48%            | <sup>3</sup>  |                                                                                                                                                                                                                   
 | Trie            | Basic Operations         | Implement Trie (Prefix Tree) |    memory     |   02-Feb-2023   |    158 ms     |         88.52%          |     31.6 MB     |            67.33%            | <sup>3</sup>  |                                                                                                                                                                                                                   
 | Trie            | Practical Application I  | Map Sum Pairs                |     both      |   05-Feb-2023   |     26 ms     |         97.54%          |     13.9 MB     |            98.30%            | <sup>3</sup>  |                                                                                                                                                                                                                   
+| Trie            | Practical Application I  | Replace Words                |    memory     |   06-Feb-2023   |    560 ms     |         27.31%          |     22.3 MB     |            99.10%            | <sup>3</sup>  |                                                                                                                                                                                                                   
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
