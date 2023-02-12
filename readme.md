@@ -255,6 +255,7 @@ Completed:-
      * Map Sum Pairs
      * Replace Words
      * Add and Search Word - Data structure design
+   * Practical Application II
 
 
 Pending:-
