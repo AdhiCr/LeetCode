@@ -489,7 +489,8 @@ Pending:-
 | Trie            | Practical Application I   | Add and Search Word - Data structure design |   alternate   |   08-Feb-2023   |   10499 ms    |         50.95%          |     78.0 MB     |            51.85%            | <sup>3</sup> |                                                                                                                                                                                                                   
 | Trie            | Practical Application I   | Add and Search Word - Data structure design |     both      |   11-Feb-2023   |    1369 ms    |         99.34%          |     22.0 MB     |            97.69%            | <sup>3</sup> |
 | Trie            | Practical Application II  | Maximum XOR of Two Numbers in an Array      |     both      |   15-Feb-2023   |    673 ms     |         98.88%          |     43.2 MB     |            76.75%            | <sup>3</sup> |
-| Trie            | Practical Application II  | Word Search II                              |   alternate   |   17-Feb-2023   |    8568 ms    |         12.21%          |     16.4 MB     |            59.33%            | <sup>3</sup> |
+| Trie            | Practical Application II  | Word Search II                              |   alternate   |   18-Feb-2023   |    8568 ms    |         12.21%          |     16.4 MB     |            59.33%            | <sup>3</sup> |
+| Trie            | Practical Application II  | Word Search II                              |     both      |   20-Feb-2023   |    289 ms     |         98.94%          |     14.2 MB     |            99.48%            | <sup>3</sup> |
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
