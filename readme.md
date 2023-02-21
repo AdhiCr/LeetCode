@@ -258,6 +258,7 @@ Completed:-
    * Practical Application II
      * Maximum XOR of Two Numbers in an Array
      * Word Search II
+     *  Word Squares - (Locked for premium users - not done)
 
 
 Pending:-
