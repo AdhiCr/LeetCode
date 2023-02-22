@@ -258,7 +258,8 @@ Completed:-
    * Practical Application II
      * Maximum XOR of Two Numbers in an Array
      * Word Search II
-     *  Word Squares - (Locked for premium users - not done)
+     * Word Squares - (Locked for premium users - not done)
+     * Palindrome Pairs
 
 
 Pending:-
@@ -492,6 +493,7 @@ Pending:-
 | Trie            | Practical Application II  | Maximum XOR of Two Numbers in an Array      |     both      |   15-Feb-2023   |    673 ms     |         98.88%          |     43.2 MB     |            76.75%            | <sup>3</sup> |
 | Trie            | Practical Application II  | Word Search II                              |   alternate   |   18-Feb-2023   |    8568 ms    |         12.21%          |     16.4 MB     |            59.33%            | <sup>3</sup> |
 | Trie            | Practical Application II  | Word Search II                              |     both      |   20-Feb-2023   |    289 ms     |         98.94%          |     14.2 MB     |            99.48%            | <sup>3</sup> |
+| Trie            | Practical Application II  | Palindrome Pairs                            |               |   ---Feb-2023   |     -- ms     |          --.-%          |     --.- MB     |            --.--%            |              |
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
