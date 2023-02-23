@@ -260,6 +260,7 @@ Completed:-
      * Word Search II
      * Word Squares - (Locked for premium users - not done)
      * Palindrome Pairs
+ 
 
 
 Pending:-
