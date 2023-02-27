@@ -19,3 +19,7 @@ class Solution:
                     ans.append([dict[r], i])
 
         return ans
+
+
+dummy = Solution()
+print(dummy.palindromePairs(words = ["abcd","dcba","lls","s","sssll"]))
