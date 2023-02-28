@@ -260,10 +260,13 @@ Completed:-
      * Word Search II
      * Word Squares - (Locked for premium users - not done)
      * Palindrome Pairs
+ * N-ary Tree
+   * Traversal
+   * Recursion
+   * Conclusion
 
 
 Pending:-
- * N-ary Tree
  * Recursion II
  * Dynamic Programming
  * Graph
@@ -494,6 +497,10 @@ Pending:-
 | Trie            | Practical Application II  | Word Search II                              |   alternate   |   18-Feb-2023   |    8568 ms    |         12.21%          |     16.4 MB     |            59.33%            | <sup>3</sup> |
 | Trie            | Practical Application II  | Word Search II                              |     both      |   20-Feb-2023   |    289 ms     |         98.94%          |     14.2 MB     |            99.48%            | <sup>3</sup> |
 | Trie            | Practical Application II  | Palindrome Pairs                            |     both      |   25-Feb-2023   |    1418 ms    |         98.52%          |     26.3 MB     |            83.49%            | <sup>3</sup> |
+
+| Explore- module | Topic        | Problem | Solution_type | Submission_date | Required_time | Faster_than<sup>1</sup> | Required_Memory | Less_memory_than<sup>2</sup> | Remarks |
+|-----------------|--------------|:--------|:-------------:|:---------------:|:-------------:|:-----------------------:|:---------------:|:----------------------------:|:--------|
+| N-ary Tree      | Traversal    | --      |      --       |   ---Mar-2023   |     -- ms     |         --.--%          |     --.- MB     |            --.--%            |         |                                                                                                                                                                                                                   
 
 <sup>1,2</sup>: The rankings for speed and memory usage are directly taken from LeetCode "Submission Details" sheet 
 obtained as on the date of submission (rankings reported only on Python3 based submissions).
